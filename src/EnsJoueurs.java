@@ -2,10 +2,10 @@ public class EnsJoueurs {
     public EnsJoueurs(){
 
     }
-    public void creer{
+    public void creer(){
 
     }
-    public void selectionnerJoueur{
+    public void selectionnerJoueur(){
 
     }
 }
