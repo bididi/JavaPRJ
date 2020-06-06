@@ -13,9 +13,10 @@ public class Joueur {
         this.score = 0;
         this.etat = " ";
     }
-    public void saisir(){
+    public String saisir(){
         Scanner input = new Scanner(System.in);
         String réponse = input.next();
+        return réponse;
 
     }
     public void afficher(){
