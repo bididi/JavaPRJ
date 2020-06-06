@@ -30,7 +30,7 @@ public class Joueur {
     }
 
     // mise à jour de l'état du joueur
-    public void changerEtat(){
-
+    public void changerEtat(String statut){
+        this.etat = statut;
     }
 }
