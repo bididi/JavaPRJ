@@ -1,9 +1,15 @@
 public class Joueur {
+    int numJoueur = 0;
+    String pseudo;
+    int score;
+    String etat;
     public Joueur(){
-hnkjdnc
+        this.numJoueur = numJoueur++;
+
+
     }
     public void saisir{
- test
+
     }
     public void afficher{
 
