@@ -26,7 +26,6 @@ public class Joueur {
     }
     // Mise à jour du score d'un joueur
     public void mAJScore(){
-        this.score =;
 
     }
 
