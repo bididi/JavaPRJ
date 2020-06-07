@@ -1,14 +1,14 @@
 import java.util.Scanner;
 
 public class Joueur {
-    int numJoueur = 0;
+    int numJoueur = 100;
     String pseudo;
     int score;
     String etat;
 
 //Création d'un joueur
     public Joueur(String pseudo){
-        this.numJoueur = numJoueur++;
+        this.numJoueur = numJoueur+10;
         this.pseudo = pseudo;
         this.score = 0;
         this.etat = " ";
