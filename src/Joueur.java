@@ -6,7 +6,7 @@ public class Joueur {
     int score;
     String etat;
 
-//Création d'un joueur
+    //Création d'un joueur
     public Joueur(String pseudo){
         this.numJoueur = numJoueur+10;
         this.pseudo = pseudo;
