@@ -1,14 +1,14 @@
 public class ListeQuestions {
-    public void afficherListe{
+    public void afficherListe(){
 
     }
-    public void ajouterQuestion{
+    public void ajouterQuestion(){
 
     }
-    public void supprimerQustion{
+    public void supprimerQustion(){
 
     }
-    public void selectionnerQuestion{
+    public void selectionnerQuestion(){
 
     }
 }
