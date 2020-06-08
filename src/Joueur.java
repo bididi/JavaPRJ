@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Joueur {
+public class Joueur implements Phase {
     int numJoueur = 100;
     String pseudo;
     int score;
@@ -22,8 +22,10 @@ public class Joueur {
     }
 
     public void afficher(){
+        System.out.println("nom du joueur :"+ this.pseudo + "numéro du joueur : "+ this.numJoueur + "Score : "+ this.score + "Statut :" + this.etat);
 
     }
+
     // Mise à jour du score d'un joueur
     public void mAJScore(){
 
