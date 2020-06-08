@@ -7,6 +7,7 @@ public class RC extends Question {
     public void Afficher(){
 
     };
+
     public void  Saisir(){
 
     };
