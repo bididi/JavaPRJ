@@ -12,10 +12,7 @@ public class EnsJoueurs {
     }
     // Création des joueurs
     public void creer(){
-        Scanner sc = new Scanner(System.in);
-        int nbjours;
-        System.out.println("Combien de joueurs y a-t-il ?");
-        nbjours = sc.nextInt();
+
 
 
     }

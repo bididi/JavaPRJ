@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Joueur implements Phase {
+public class Joueur {
     int numJoueur = 100;
     String pseudo;
     int score;
