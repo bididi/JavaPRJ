@@ -1,12 +1,20 @@
 package Questions;
 
 public abstract class Question <T> {
-    String[] thémes = new String[10];
+    // Attributs d'une question
+    String thémes ;
     int numéro;
     int difficulté;
     T énoncé;
-    public Question(){
-    }
+
+    //Constructeur par défault
+    public Question() {};
+
+    // Méthodes abstraite
     public abstract void Afficher();
     public abstract void  Saisir();
+
+
+    // Méthodes
+
 }
