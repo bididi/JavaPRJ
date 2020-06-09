@@ -1,15 +1,14 @@
 package Questions;
-
 import java.io.*;
 import java.util.ArrayList;
 
-public class Themes {
-
+public class Themes
+{
 
 ArrayList<String>liste;
 ArrayList<String>ThemeSelect = new ArrayList();
 
-public Themes(ArrayList<String>liste )
+public Themes(ArrayList<String>liste)
 {
 
     this.liste = liste ;
@@ -17,7 +16,8 @@ public Themes(ArrayList<String>liste )
 
 
 
-    public void serialiserListe(String name_File) throws IOException{
+    public void serialiserListe(String name_File) throws IOException
+    {
 
     ObjectOutputStream output = new ObjectOutputStream(new FileOutputStream(name_File + ".txt")) ;
 
@@ -29,7 +29,8 @@ public Themes(ArrayList<String>liste )
 
 
 
-    public void initialisation() throws IOException, ClassNotFoundException{
+    public void initialisation() throws IOException, ClassNotFoundException
+    {
 
         this.liste.clear();
 
@@ -47,7 +48,8 @@ public Themes(ArrayList<String>liste )
         serialiserListe("Themes");
     }
 
-public void deserialiserListe(String name_File) throws IOException, ClassNotFoundException{
+public void deserialiserListe(String name_File) throws IOException, ClassNotFoundException
+{
 
     ObjectInputStream in = new ObjectInputStream(new FileInputStream(name_File + ".txt"));
 
@@ -62,31 +64,33 @@ public void deserialiserListe(String name_File) throws IOException, ClassNotFoun
 
 
 
-public void ModifierTheme(int emplacement, String newTheme) throws IOException{
-
+public void ModifierTheme(int emplacement, String newTheme) throws IOException
+{
     this.liste.set(emplacement,newTheme);
-
     serialiserListe("Themes");
 }
 public void SelectionnerTheme(){
 
     int nbrAle = (int) (Math.random() * ((liste.size()-1 ) +1));
-
     ThemeSelect.add(liste.get(nbrAle));
-
     liste.remove((nbrAle));
 
 }
 
-public void SelectionnerCinqThemes(){
-    for (int i = 0; i<6 ; i++){
+public void SelectionnerCinqThemes()
+{
+    for (int i = 0; i<6 ; i++)
+    {
         SelectionnerTheme();
     }
 }
 
 public void Afficher(){
+
     int j=0;
-    while(j<liste.size()){
+
+    while(j<liste.size())
+    {
         System.out.println(liste.get(j));
         j++;
     }
