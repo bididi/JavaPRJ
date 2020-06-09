@@ -1,29 +1,30 @@
 import java.util.Scanner;
 
 public class Joueur {
-    int numJoueur = 100;
-    String pseudo;
-    int score;
-    String etat;
+    private int numJoueur;
+    private String pseudo;
+    private int score;
+    private String etat;
 
     //Création d'un joueur
-    public Joueur(String pseudo){
-        this.numJoueur = numJoueur+10;
+    public Joueur(String pseudo, int numJ){
+
+        this.numJoueur = numJ;
         this.pseudo = pseudo;
         this.score = 0;
-        this.etat = " ";
+        this.etat = "en attente ";
     }
+
+
     //récupération d'une saisi par un joueur
     public String saisir(){
         Scanner input = new Scanner(System.in);
         String réponse = input.next();
         return réponse;
-
     }
 
     public void afficher(){
-        System.out.println("nom du joueur :"+ this.pseudo + "numéro du joueur : "+ this.numJoueur + "Score : "+ this.score + "Statut :" + this.etat);
-
+        System.out.println("nom du joueur : "+ pseudo + "  numéro du joueur : "+ numJoueur + "  Score : "+ score + "  Statut : " + etat);
     }
 
     // Mise à jour du score d'un joueur
