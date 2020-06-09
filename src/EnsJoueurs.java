@@ -59,7 +59,7 @@ public class EnsJoueurs {
 
 
 
-    // Sélection des 4 joueurs qui jouront
+    // Sélection d'un joueur au hasard dans le vecteur
     public Joueur selectionnerJoueur(){
 
         // On crée une liste qui contient tous les indexs, qui indique des joueurs n'ayant pas joué, dans notre vecteur

@@ -28,7 +28,8 @@ public class Joueur {
     }
 
     // Mise à jour du score d'un joueur
-    public void mAJScore(){
+    public void mAJScore(int points){
+        this.score = score + points;
 
     }
 
