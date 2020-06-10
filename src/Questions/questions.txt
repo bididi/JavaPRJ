@@ -1,157 +1,157 @@
-3;Geographie;VF;Pour eviter leur destruction, les monuments de Nubie d’Abou Simbel ont ete entierement deplaces.;true;;;
-3;Geographie;VF;La stavkirke de Borgund, en Norvege, a ete construite vers l’an 1600.;false;;;
-3;Geographie;VF;Plus de cinq millions de clous ont ete necessaires a la construction du pogost de Kiji.;false;;;
-3;Geographie;VF;Louis II de Baviere a fait dynamiter un pan de montagne pour construire son château sur un eperon rocheux de 200 metres.;true;;;
-2;Geographie;VF;Le monastere de Taktshang, au Bhoutan, a ete completement devaste par un incendie en 1998.;false;;;
-2;Geographie;VF;La Mosquee bleue a ete la deuxieme mosquee du monde, apres celle de la Mecque, a posseder six minarets.;true;;;
+3;Geographie;VF;Pour eviter leur destruction, les monuments de Nubie dï¿½Abou Simbel ont ete entierement deplaces.;true;;;
+3;Geographie;VF;La stavkirke de Borgund, en Norvege, a ete construite vers lï¿½anï¿½1600.;false;;;
+3;Geographie;VF;Plus de cinq millions de clous ont ete necessaires a la construction du pogost deï¿½Kiji.;false;;;
+3;Geographie;VF;Louis II de Baviere a fait dynamiter un pan de montagne pour construire son chï¿½teau sur un eperon rocheux de 200 metres.;true;;;
+2;Geographie;VF;Le monastere de Taktshang, au Bhoutan, a ete completement devaste par un incendie enï¿½1998.;false;;;
+2;Geographie;VF;La Mosquee bleue a ete la deuxieme mosquee du monde, apres celle de la Mecque, a posseder sixï¿½minarets.;true;;;
 2;Geographie;VF;Commencee en 1882, la construction de la basilique Sagrada Familia se poursuit toujours.;true;;;
-2;Geographie;VF;L’adresse de la Cour suprême des etats-Unis est le 1, First Avenue (1, Premiere Avenue).;false;;;
-1;Geographie;VF;L’inclinaison de la tour de Pise s’explique par la construction d’un metro qui en a affaibli les fondations.;false;;;
+2;Geographie;VF;Lï¿½adresse de la Cour suprï¿½me des etats-Unis est le 1,ï¿½Firstï¿½Avenue (1,ï¿½Premiereï¿½Avenue).;false;;;
+1;Geographie;VF;Lï¿½inclinaison de la tour de Pise sï¿½explique par la construction dï¿½un metro qui en a affaibli les fondations.;false;;;
 1;Geographie;VF;Le point zero des routes de France est situe devant la cathedrale Notre-Dame de Paris.;true;;;
 1;Geographie;VF;Charlemagne nomma Paris capitale de France a la fin du VIIIe siecle.;false;;;
-1;Geographie;VF;Paris doit son surnom de Ville Lumiere principalement parce qu’elle a abrite plusieurs philosophes du siecle des Lumieres.;false;;;
-3;Science;VF;Toutes les bacteries dans notre corps mises ensemble pesent environ 0,45 kg (1 lb).;false;;;
-1;Science;VF;En 1932, Charles Richter parvient a forer presque jusqu’au centre de la Terre pour analyser les mouvements sismiques sur notre planete.;false;;;
-3;Science;VF;Les decouvertes de Marie et Pierre Curie ont remis en cause l’hypothese selon laquelle le nombre d’atomes sur Terre etait fixe.;true;;;
+1;Geographie;VF;Paris doit son surnom de Ville Lumiere principalement parce quï¿½elle a abrite plusieurs philosophes du siecle des Lumieres.;false;;;
+3;Science;VF;Toutes les bacteries dans notre corps mises ensemble pesent environ 0,45ï¿½kg (1ï¿½lb).;false;;;
+1;Science;VF;En 1932, Charles Richter parvient a forer presque jusquï¿½au centre de la Terre pour analyser les mouvements sismiques sur notre planete.;false;;;
+3;Science;VF;Les decouvertes de Marie et Pierre Curie ont remis en cause lï¿½hypothese selon laquelle le nombre dï¿½atomes sur Terre etaitï¿½fixe.;true;;;
 3;Science;VF;Alfred Nobel, le createur des prix Nobel, dont celui de la Paix, a aussi invente la dynamite.;true;;;
-1;Science;VF;C’est en observant les pinsons des îles Galápagos que Darwin a elabore sa theorie de l’evolution.;true;;;
-1;Science;VF;Sir Alexander Fleming a decouvert par hasard la penicilline, qui a depuis sauve des millions de vies.;true;;;
-3;Science;VF;Le medecin grec Hippocrate (v. 460-370 av. J.-C.) a decouvert les fondements du systeme sanguin.;false;;;
-2;Science;VF;Edwin Hubble a decouvert Neptune grâce au premier telescope infrarouge.;false;;;
+1;Science;VF;Cï¿½est en observant les pinsons des ï¿½les Galï¿½pagos que Darwin a elabore sa theorie de lï¿½evolution.;true;;;
+1;Science;VF;Sir Alexander Fleming a decouvert par hasard la penicilline, qui a depuis sauve des millions deï¿½vies.;true;;;
+3;Science;VF;Le medecin grec Hippocrate (v.ï¿½460-370ï¿½av.ï¿½J.-C.) a decouvert les fondements du systeme sanguin.;false;;;
+2;Science;VF;Edwin Hubble a decouvert Neptune grï¿½ce au premier telescope infrarouge.;false;;;
 2;Science;VF;Pour ses travaux, Albert Einstein a gagne le prix Nobel de mathematiques.;false;;;
-2;Science;VF;Eurêka est le nom d’un des plus grands mathematiciens de l’Antiquite grecque.;false;;;
+2;Science;VF;Eurï¿½ka est le nom dï¿½un des plus grands mathematiciens de lï¿½Antiquite grecque.;false;;;
 2;Science;VF;Louis Pasteur a cree le premier vaccin.;false;;;
-1;Science;VF;En 1783, les freres Montgolfier parviennent a faire s’envoler un coq, un mouton et un canard.;true;;;
+1;Science;VF;En 1783, les freres Montgolfier parviennent a faire sï¿½envoler un coq, un mouton et unï¿½canard.;true;;;
 2;Sport;VF;Brett Favre detient le record du plus grand nombre de passes completees par un joueur de la LNF.;false;;;
-3;Sport;VF;Tom Brady detient la plus haute cote de passeur de toute l’histoire de la LNF.;false;;;
-2;Sport;VF;Le plus long match de l’histoire du tennis a dure huit heures et 52 minutes. ;false;;;
-2;Sport;VF;Roger Federer detient le record du plus grand nombre d’as en carriere.;false;;;
-1;Sport;VF;Pele a mene l’Argentine a trois championnats du monde de football.;false;;;
-2;Sport;VF;Sebastian Vettel a ete le plus jeune champion du monde de Formule 1.;true;;;
-3;Sport;VF;Le Tcheque Emil Zátopek a battu 18 records du monde de course sur des distances variees.;true;;;
-2;Sport;VF;C’est en courant pieds nus que l’ethiopien Abebe Bikila a remporte le marathon des Jeux de Rome en 1960.;true;;;
+3;Sport;VF;Tom Brady detient la plus haute cote de passeur de toute lï¿½histoire de la LNF.;false;;;
+2;Sport;VF;Le plus long match de lï¿½histoire du tennis a dure huit heures et 52 minutes.ï¿½;false;;;
+2;Sport;VF;Roger Federer detient le record du plus grand nombre dï¿½as en carriere.;false;;;
+1;Sport;VF;Pele a mene lï¿½Argentine a trois championnats du monde deï¿½football.;false;;;
+2;Sport;VF;Sebastian Vettel a ete le plus jeune champion du monde de Formuleï¿½1.;true;;;
+3;Sport;VF;Le Tcheque Emil Zï¿½topek a battu 18ï¿½records du monde de course sur des distances variees.;true;;;
+2;Sport;VF;Cï¿½est en courant pieds nus que lï¿½ethiopien Abebe Bikila a remporte le marathon des Jeux de Rome enï¿½1960.;true;;;
 3;Sport;VF;Wayne Gretzky est le joueur de hockey qui a remporte le plus grand nombre de championnats de la Coupe Stanley.;false;;;
-1;Sport;VF;L’Argentine est le seul pays d’Amerique du Sud a avoir accueilli les Jeux olympiques d’hiver.;false;;;
-1;Sport;VF;a la ceremonie d’ouverture des Jeux, la delegation grecque ouvre toujours la marche.;true;;;
-1;Sport;VF;Le 100 m nage style libre est aussi une epreuve du decathlon.;false;;;
-2;Art;VF;La cathedrale de Brasilia a ete construite pour les Jeux olympiques de Rio en 2014.;false;;;
-3;Art;VF;L’Evolution Tower, dont la forme torsadee evoque l’ADN, devra être demolie a cause d’erreurs de construction.;false;;;
-2;Art;VF;a l’origine, « la maison dansante » devait servir au tournage d’un film de Tim Burton.;false;;;
-1;Art;VF;Le Musee Guggenheim Bilbao est une creation de l’architecte Frank Gehry.;true;;;
-3;Art;VF;Le Guangzhou Circle est perce d’un trou d’un diametre de pres de 50 m (165 pi).;true;;;
-2;Art;VF;Le projet de forêt verticale, construit a Milan, equivaut au couvert vegetal d’une forêt d’un hectare.;true;;;
+1;Sport;VF;Lï¿½Argentine est le seul pays dï¿½Amerique du Sud a avoir accueilli les Jeux olympiques dï¿½hiver.;false;;;
+1;Sport;VF;a la ceremonie dï¿½ouverture des Jeux, la delegation grecque ouvre toujours la marche.;true;;;
+1;Sport;VF;Le 100ï¿½m nage style libre est aussi une epreuve du decathlon.;false;;;
+2;Art;VF;La cathedrale de Brasilia a ete construite pour les Jeux olympiques de Rio enï¿½2014.;false;;;
+3;Art;VF;Lï¿½Evolution Tower, dont la forme torsadee evoque lï¿½ADN, devra ï¿½tre demolie a cause dï¿½erreurs de construction.;false;;;
+2;Art;VF;a lï¿½origine, ï¿½ï¿½la maison dansanteï¿½ï¿½ devait servir au tournage dï¿½un film de Timï¿½Burton.;false;;;
+1;Art;VF;Le Musee Guggenheim Bilbao est une creation de lï¿½architecte Frankï¿½Gehry.;true;;;
+3;Art;VF;Le Guangzhou Circle est perce dï¿½un trou dï¿½un diametre de pres de 50ï¿½m (165ï¿½pi).;true;;;
+2;Art;VF;Le projet de forï¿½t verticale, construit a Milan, equivaut au couvert vegetal dï¿½une forï¿½t dï¿½unï¿½hectare.;true;;;
 3;Art;VF;La tour CCTV est le nouveau parlement de Singapour.;false;;;
-1;Art;VF;Le Corbusier est le concepteur de « l’unite d’habitation » : l’integrations des equipements collectifs necessaires a la vie dans un même bâtiment.;true;;;
-3;Art;VF;Habitat 67 a ete construit pour celebrer les 67 ans des jeux de construction Lego.;false;;;
-2;Art;VF;Le Musee d’art contemporain de Niterói se trouve a Dubaï.;false;;;
-1;Art;VF;Les 128 km (80 mi) du chemin de fer rhetique, dans les Alpes, comportent 55 tunnels et galeries couvertes.;true;;;
-1;Art;VF;La statue de la Liberte a ete conçue en France.;true;;;
-3;CINEMA;VF;Pour son rôle dans Vicky Cristina Barcelona, Penelope Cruz devient la premiere comedienne mexicaine a recevoir un Oscar.;false;;;
-3;CINEMA;VF;Le Silence des agneaux a ete le premier thriller a obtenir l’Oscar du meilleur film.;true;;;
-2;CINEMA;VF;Le film The Artist est le premier film muet a remporter l’Oscar du meilleur film (2012).;false;;;
-3;CINEMA;VF;En 2014, Steve McQueen est le premier realisateur noir a remporter l’Oscar du meilleur film.;true;;;
-3;CINEMA;VF;Jodie Foster a remporte son premier Oscar avec son rôle dans le film Taxi Driver.;false;;;
-2;CINEMA;VF;En 1995, Steven Spielberg a remporte l’Oscar de la meilleure realisation pour le film Forrest Gump.;false;;;
-2;CINEMA;VF;Il aura fallu cinq nominations a Leonardo DiCaprio avant de remporter l’Oscar du meilleur acteur.;true;;;
-1;CINEMA;VF;Aucun film n’a jamais reussi a remporter les cinq Oscar majeurs : meilleurs film, realisation, acteur, actrice, scenario.;false;;;
-2;CINEMA;VF;Le premier film gagnant de l’Oscar du meilleur film a ete The Gold Rush (La Ruee vers l’or) de Charlie Chaplin.;false;;;
-1;CINEMA;VF;Harry Potter est ne le 31 juillet 1980.;true;;;
+1;Art;VF;Le Corbusier est le concepteur de ï¿½ï¿½lï¿½unite dï¿½habitationï¿½ï¿½ï¿½: lï¿½integrations des equipements collectifs necessaires a la vie dans un mï¿½me bï¿½timent.;true;;;
+3;Art;VF;Habitatï¿½67 a ete construit pour celebrer les 67ï¿½ans des jeux de constructionï¿½Lego.;false;;;
+2;Art;VF;Le Musee dï¿½art contemporain de Niterï¿½i se trouve aï¿½Dubaï¿½.;false;;;
+1;Art;VF;Les 128ï¿½km (80ï¿½mi) du chemin de fer rhetique, dans les Alpes, comportent 55ï¿½tunnels et galeries couvertes.;true;;;
+1;Art;VF;La statue de la Liberte a ete conï¿½ue en France.;true;;;
+3;CINEMA;VF;Pour son rï¿½le dansï¿½Vicky Cristina Barcelona,ï¿½Penelope Cruz devient la premiere comedienne mexicaine a recevoir unï¿½Oscar.;false;;;
+3;CINEMA;VF;Le Silence des agneauxï¿½a ete le premier thriller a obtenir lï¿½Oscar du meilleurï¿½film.;true;;;
+2;CINEMA;VF;Le filmï¿½The Artistï¿½est le premier film muet a remporter lï¿½Oscar du meilleur filmï¿½(2012).;false;;;
+3;CINEMA;VF;En 2014, Steve McQueen est le premier realisateur noir a remporter lï¿½Oscar du meilleur film.;true;;;
+3;CINEMA;VF;Jodie Foster a remporte son premier Oscar avec son rï¿½le dans le filmï¿½Taxiï¿½Driver.;false;;;
+2;CINEMA;VF;En 1995, Steven Spielberg a remporte lï¿½Oscar de la meilleure realisation pour le filmï¿½Forrestï¿½Gump.;false;;;
+2;CINEMA;VF;Il aura fallu cinq nominations a Leonardo DiCaprio avant de remporter lï¿½Oscar du meilleur acteur.;true;;;
+1;CINEMA;VF;Aucun film nï¿½a jamais reussi a remporter les cinq Oscar majeursï¿½: meilleurs film, realisation, acteur, actrice, scenario.;false;;;
+2;CINEMA;VF;Le premier film gagnant de lï¿½Oscar du meilleur film a eteï¿½The Gold Rushï¿½(La Ruee vers lï¿½or) de Charlieï¿½Chaplin.;false;;;
+1;CINEMA;VF;Harry Potter est ne le 31ï¿½juillet 1980.;true;;;
 1;CINEMA;VF;Sirius Black et Nymphadora Tonks sont cousins.;true;;;
-1;CINEMA;VF;La Camera d’or recompense la meilleure photographie.;false;;;
+1;CINEMA;VF;La Camera dï¿½or recompense la meilleure photographie.;false;;;
 3;HISTOIRE;VF;La guerre de Coree est le premier conflit dans lequel les troupes des Nations unies se sont impliquees.;true;;;
-2;HISTOIRE;VF;a titre d’heritier designe de la couronne britannique, le prince Charles porte le titre officiel de duc de Cornouailles. ;true;;;
-2;HISTOIRE;VF;Habituellement, le Moyen Âge est divise en deux grandes periodes : 1er Moyen Âge (Ve-XIe siecle) et 2nd Moyen Âge (XIIe-XVIe siecle).;true;;;
-3;HISTOIRE;VF;Aucun president n’a reussi a se faire elire a deux elections non consecutives.;false;;;
+2;HISTOIRE;VF;a titre dï¿½heritier designe de la couronne britannique, le prince Charles porte le titre officiel de duc de Cornouailles.ï¿½;true;;;
+2;HISTOIRE;VF;Habituellement, le Moyen ï¿½ge est divise en deux grandes periodes : 1er Moyen ï¿½ge (Ve-XIe siecle) et 2nd Moyen ï¿½ge (XIIe-XVIe siecle).;true;;;
+3;HISTOIRE;VF;Aucun president nï¿½a reussi a se faire elire a deux elections non consecutives.;false;;;
 1;HISTOIRE;VF;Donald Trump a remporte la presidence des etats-Unis en se presentant comme candidat independant, sans affiliation a un parti politique.;false;;;
-1;HISTOIRE;VF;L’epave du vol MH370 de Malaysia Airlines, disparu le 8 mars 2014, a ete retrouvee a la fin novembre 2016.;false;;;
-2;HISTOIRE;VF;Leonard de Vinci a popularise l’effet de perspective a travers ses toiles.;true;;;
-1;HISTOIRE;VF;La Joconde est une œuvre colossale de 553 cm × 777 cm (217 po × 306 po).;false;;;
-3;HISTOIRE;VF;En 2016, l’Allemagne, le Chili, le Royaume-Uni, le Liberia et Taïwan avaient des chefs d’etat ou de gouvernement feminins.;true;;;
-2;HISTOIRE;VF;Bill Clinton n’a jamais frequente l’universite.;false;;;
+1;HISTOIRE;VF;Lï¿½epave du volï¿½MH370 de Malaysia Airlines, disparu le 8ï¿½marsï¿½2014, a ete retrouvee a la fin novembreï¿½2016.;false;;;
+2;HISTOIRE;VF;Leonard deï¿½Vinci a popularise lï¿½effet de perspective a travers ses toiles.;true;;;
+1;HISTOIRE;VF;La Jocondeï¿½est une ï¿½uvre colossale de 553ï¿½cmï¿½× 777ï¿½cm (217ï¿½po ï¿½ 306ï¿½po).;false;;;
+3;HISTOIRE;VF;En 2016, lï¿½Allemagne, le Chili, le Royaume-Uni, le Liberia et Taï¿½wan avaient des chefs dï¿½etat ou de gouvernement feminins.;true;;;
+2;HISTOIRE;VF;Bill Clinton nï¿½a jamais frequente lï¿½universite.;false;;;
 1;HISTOIRE;VF;La reine et son mari le prince Philip sont cousins germains.;false;;;
-3;HISTOIRE;VF;La premiere guerre du Golfe est un conflit qui fait suite a l’invasion du Koweït par l’Irak.;true;;;
-3;LANGUE;VF;La vexillologie est l’etude des drapeaux et des etendards.;true;;;
+3;HISTOIRE;VF;La premiere guerre du Golfe est un conflit qui fait suite a lï¿½invasion du Koweï¿½t parï¿½lï¿½Irak.;true;;;
+3;LANGUE;VF;La vexillologie est lï¿½etude des drapeaux et des etendards.;true;;;
 2;LANGUE;VF;Les petites graines a la surface des fraises se nomment akene.;true;;;
-3;LANGUE;VF;Infundibuliforme signifie « qui a une forme arrondie ».;false;;;
-3;LANGUE;VF;Le verbicruciste est l’auteur des grilles de mots croises.;true;;;
-3;LANGUE;VF;La triskaïdekaphobie est la peur du nombre 13.;true;;;
-2;LANGUE;VF;Le genre du mot acompte est respecte dans « vous devez me donner un acompte de 50 % ».;true;;;
-2;LANGUE;VF;L’accord de « grande » est juste dans « decouvrir le genre du mot enigme est une grande enigme ».;true;;;
-2;LANGUE;VF;La phrase « l’alcool au volant a cause une veritable hecatombe sur nos routes » est juste.;true;;;
-1;LANGUE;VF;L’accord est bon dans « j’ai demande qu’on rajoute un hortensia rose dans le bouquet ».;true;;;
-1;LANGUE;VF;Les homonymes sont correctement ecrits dans : « Mon boulot consiste a fabriquer des canots en ecorce de bouleau. »;true;;;
-1;LANGUE;VF;Les homonymes sont bien ecrits dans : « Je n’aurais jamais cru que la crue monterait si haut. »;true;;;
-1;LANGUE;VF;Il n’y a pas de fautes d’orthographe dans : « La sale de cinema est truement tres salle. »;false;;;
-1;LES REPTILES;VF;Tous les reptiles ont des ecailles.;true;;;
-2;LES REPTILES;VF;Le crocodile brise la nuque de ses grosses proies pour les tuer.;false;;;
-3;LES REPTILES;VF;Le dernier gavial s’est eteint au debut du 20e siecle.;false;;;
-2;LES REPTILES;VF;L’ornithorynque est le seul reptile couvert partiellement de poils.;false;;;
-2;LES REPTILES;VF;La tortue luth peut parcourir des milliers de kilometres pour retourner pondre sur la plage qui l’a vue naître.;true;;;
-3;LES REPTILES;VF;Les reptiles ovovivipares se reproduisent par des œufs qui eclosent dans le ventre de la femelle.;true;;;
-1;LES REPTILES;VF;Il est false de dire que les tortues geantes des Galápagos peuvent vivre plus de 100 ans.;false;;;
-2;LES REPTILES;VF;La couleuvre a collier feint parfois d’être morte pour eloigner les predateurs non charognards.;true;;;
+3;LANGUE;VF;Infundibuliformeï¿½signifie ï¿½ï¿½qui a une forme arrondieï¿½ï¿½.;false;;;
+3;LANGUE;VF;Le verbicruciste est lï¿½auteur des grilles de mots croises.;true;;;
+3;LANGUE;VF;La triskaï¿½dekaphobie est la peur du nombreï¿½13.;true;;;
+2;LANGUE;VF;Le genre du motï¿½acompteï¿½est respecte dans ï¿½ï¿½vous devez me donner un acompte de 50ï¿½%ï¿½ï¿½.;true;;;
+2;LANGUE;VF;Lï¿½accord de ï¿½ï¿½grandeï¿½ï¿½ est juste dans ï¿½ï¿½decouvrir le genre du mot enigme est une grande enigmeï¿½ï¿½.;true;;;
+2;LANGUE;VF;La phrase ï¿½ï¿½lï¿½alcool au volant a cause une veritable hecatombe sur nos routesï¿½ï¿½ est juste.;true;;;
+1;LANGUE;VF;Lï¿½accord est bon dans ï¿½ï¿½jï¿½ai demande quï¿½on rajoute un hortensia rose dans le bouquetï¿½ï¿½.;true;;;
+1;LANGUE;VF;Les homonymes sont correctement ecrits dansï¿½: ï¿½ï¿½Mon boulot consiste a fabriquer des canots en ecorce de bouleau.ï¿½ï¿½;true;;;
+1;LANGUE;VF;Les homonymes sont bien ecrits dansï¿½: ï¿½ï¿½Je nï¿½aurais jamais cru que la crue monterait siï¿½haut.ï¿½ï¿½;true;;;
+1;LANGUE;VF;Il nï¿½y a pas de fautes dï¿½orthographe dansï¿½: ï¿½ï¿½La sale de cinema est truement tresï¿½salle.ï¿½ï¿½;false;;;
+1;LES REPTILES;VF;Tous les reptiles ont desï¿½ecailles.;true;;;
+2;LES REPTILES;VF;Le crocodile brise la nuque de ses grosses proies pour lesï¿½tuer.;false;;;
+3;LES REPTILES;VF;Le dernier gavial sï¿½est eteint au debut du 20eï¿½siecle.;false;;;
+2;LES REPTILES;VF;Lï¿½ornithorynque est le seul reptile couvert partiellement deï¿½poils.;false;;;
+2;LES REPTILES;VF;La tortue luth peut parcourir des milliers de kilometres pour retourner pondre sur la plage qui lï¿½a vueï¿½naï¿½tre.;true;;;
+3;LES REPTILES;VF;Les reptiles ovovivipares se reproduisent par des ï¿½ufs qui eclosent dans le ventre de laï¿½femelle.;true;;;
+1;LES REPTILES;VF;Il est false de dire que les tortues geantes des Galï¿½pagos peuvent vivre plus de 100ï¿½ans.;false;;;
+2;LES REPTILES;VF;La couleuvre a collier feint parfois dï¿½ï¿½tre morte pour eloigner les predateurs nonï¿½charognards.;true;;;
 3;LES REPTILES;VF;Le dragon de Komodo est un pere tres protecteur.;false;;;
-1;LES REPTILES;VF;Le grand anaconda est assez puissant pour etouffer des caïmans.;true;;;
-3;LES REPTILES;VF;Le python reticule represente une veritable menace pour les singes.;true;;;
-1;LES REPTILES;VF;Les serpents ferment leurs paupieres seulement quand ils dorment.;false;;;
+1;LES REPTILES;VF;Le grand anaconda est assez puissant pour etouffer des caï¿½mans.;true;;;
+3;LES REPTILES;VF;Le python reticule represente une veritable menace pour lesï¿½singes.;true;;;
+1;LES REPTILES;VF;Les serpents ferment leurs paupieres seulement quand ilsï¿½dorment.;false;;;
 2;LES VACCINS;VF;Les effets secondaires des vaccins sont plus importants chez les bebes.;false;;;
 2;LES VACCINS;VF;Le vaccin contre le tetanos dure toute la vie.;false;;;
-1;LES VACCINS;VF;L’allaitement protege mieux des infections que les vaccins.;false;;;
+1;LES VACCINS;VF;Lï¿½allaitement protege mieux des infections que les vaccins.;false;;;
 2;LES VACCINS;VF;Les infections contractees naturellement protegent mieux que les vaccins.;false;;;
 1;LES VACCINS;VF;Les vaccins affaiblissent le systeme immunitaire.;false;;;
-3;LES VACCINS;VF;Les vaccins contiennent de l’aluminium.;true;;;
-1;LES VACCINS;VF;Les vaccins causent l’autisme.;false;;;
-3;LES VACCINS;VF;Certains vaccins sont faits avec des œufs.;true;;;
-3;LES VACCINS;VF;Les vaccins ont permis d’eradiquer la variole.;true;;;
-2;LES VACCINS;VF;Louis Pasteur est l’inventeur de la vaccination.;false;;;
+3;LES VACCINS;VF;Les vaccins contiennent de lï¿½aluminium.;true;;;
+1;LES VACCINS;VF;Les vaccins causent lï¿½autisme.;false;;;
+3;LES VACCINS;VF;Certains vaccins sont faits avec des ï¿½ufs.;true;;;
+3;LES VACCINS;VF;Les vaccins ont permis dï¿½eradiquer la variole.;true;;;
+2;LES VACCINS;VF;Louis Pasteur est lï¿½inventeur de la vaccination.;false;;;
 1;LES VACCINS;VF;Se faire vacciner contre la grippe est completement inutile.;false;;;
 1;LES VACCINS;VF;Les vaccins sauvent de deux a trois millions de vies annuellement.;true;;;
-3;INFORMATIQUE;VF;1,5 million d’enfants meurent annuellement, car ils ne sont pas vaccines.;true;;;
-3;INFORMATIQUE;VF;L’Osborne 1, l’un des premiers ordinateurs portatifs, avait une memoire vive de 64 ko;true;;;
-3;INFORMATIQUE;VF;Histoire de jouets (vo : Toy Story) est le premier long metrage realise en images de synthese.;true;;;
+3;INFORMATIQUE;VF;1,5 million dï¿½enfants meurent annuellement, car ils ne sont pas vaccines.;true;;;
+3;INFORMATIQUE;VF;Lï¿½Osborneï¿½1, lï¿½un des premiers ordinateurs portatifs, avait une memoire vive deï¿½64ï¿½ko;true;;;
+3;INFORMATIQUE;VF;Histoire de jouetsï¿½(vo :ï¿½Toy Story) est le premier long metrage realise en images de synthese.;true;;;
 3;INFORMATIQUE;VF;Le premier site web presentait des graphiques mathematiques fort detailles.;false;;;
-2;INFORMATIQUE;VF;La premiere version de Microsoft Windows, Windows 1.0 a connu un succes retentissant.;false;;;
-2;INFORMATIQUE;VF;L’UNIVAC, le premier ordinateur commercial americain, avait predit l’election d’Eisenhower.;true;;;
+2;INFORMATIQUE;VF;La premiere version de Microsoft Windows, Windowsï¿½1.0 a connu un succes retentissant.;false;;;
+2;INFORMATIQUE;VF;Lï¿½UNIVAC, le premier ordinateur commercial americain, avait predit lï¿½election dï¿½Eisenhower.;true;;;
 2;INFORMATIQUE;VF;Le premier article vendu sur eBay etait un pointeur laser defectueux.;true;;;
-1;INFORMATIQUE;VF;La machine a calculer « pascaline » a ete inventee en 1642.;true;;;
-1;INFORMATIQUE;VF;Le premier nom de la souris etait « indicateur de position x-y pour systeme d’affichage ».;true;;;
-2;INFORMATIQUE;VF;Le premier site web a ete mis en ligne par la NASAfalse en 1991.;false;;;
+1;INFORMATIQUE;VF;La machine a calculer ï¿½ï¿½pascalineï¿½ï¿½ a ete inventee enï¿½1642.;true;;;
+1;INFORMATIQUE;VF;Le premier nom de la souris etait ï¿½ï¿½indicateur de position x-y pour systeme dï¿½affichageï¿½ï¿½.;true;;;
+2;INFORMATIQUE;VF;Le premier site web a ete mis en ligne par la NASAfalse enï¿½1991.;false;;;
 1;INFORMATIQUE;VF;En 1993, le navigateur Mosaic innove en affichant du texte et des images.;true;;;
-1;INFORMATIQUE;VF;Plus de 200 millions d’email sont envoyes chaque minute dans le monde.;true;;;
+1;INFORMATIQUE;VF;Plus de 200ï¿½millions dï¿½email sont envoyes chaque minute dans le monde.;true;;;
 1;Geographie;COURT;La capitale de la France;Paris;;;
-1;Geographie;COURT;La capitale de l'Allemagne;Berlin;;;
+1;Geographie;COURT;La capitale de l Allemagne;Berlin;;;
 1;Geographie;COURT;La capitale de la Russie;Moscou;;;
-1;Geographie;COURT;La capitale de l'Angleterre;Londres;;;
-2;Geographie;COURT;La capitale de l'Indonesie;Jakarta;;;
+1;Geographie;COURT;La capitale de l Angleterre;Londres;;;
+2;Geographie;COURT;La capitale de l Indonesie;Jakarta;;;
 2;Geographie;COURT;La capitale de la Colombie;Bogota;;;
 2;Geographie;COURT;La capitale de la Turquie;Ankara;;;
 3;Geographie;COURT;La capitale du Chili;Santiago;;;
-3;Geographie;COURT;La capitale de l'Arabie Saoudite;Rivad;;;
+3;Geographie;COURT;La capitale de l Arabie Saoudite;Rivad;;;
 3;Geographie;COURT;La capitale du Perou;Lima;;;
 2;Geographie;COURT;La capitale de la Coree du Sud;Seoul;;;
 3;Geographie;COURT;La capitale de la Republique Democratique du Congo;Kinshasa;;;
-3;Science;COURT;Quel est le nom de l'element chimique ayant pour abreviation Ac;Actinium;;;
-2;Science;COURT;Quel est le nom de l'element chimique ayant pour abreviation Ag;Argent;;;
-3;Science;COURT;Quel est le nom de l'element chimique ayant pour abreviation Al;Aluminium;;;
-3;Science;COURT;Quel est le nom de l'element chimique ayant pour abreviation Am;Americium;;;
-3;Science;COURT;Quel est le nom de l'element chimique ayant pour abreviation Ar;Argon;;;
-2;Science;COURT;Quel est le nom de l'element chimique ayant pour abreviation C;Carbonne;;;
-1;Science;COURT;Quel est le nom de l'element chimique ayant pour abreviation Cl;Chlore;;;
-2;Science;COURT;Quel est le nom de l'element chimique ayant pour abreviation Au;Or;;;
-1;Science;COURT;Quel est le nom de l'element chimique ayant pour abreviation Cu;Cuivre;;;
-2;Science;COURT;Quel est le nom de l'element chimique ayant pour abreviation Co;Cobalt;;;
-1;Science;COURT;Quel est le nom de l'element chimique ayant pour abreviation Fe;Fer;;;
-1;Science;COURT;Quel est le nom de l'element chimique ayant pour abreviation He;Helium;;;
-1;Sport;COURT;Zidane dans l'equipe de France de football a porte le maillot numero :;10;;;
+3;Science;COURT;Quel est le nom de l element chimique ayant pour abreviation Ac;Actinium;;;
+2;Science;COURT;Quel est le nom de l element chimique ayant pour abreviation Ag;Argent;;;
+3;Science;COURT;Quel est le nom de l element chimique ayant pour abreviation Al;Aluminium;;;
+3;Science;COURT;Quel est le nom de l element chimique ayant pour abreviation Am;Americium;;;
+3;Science;COURT;Quel est le nom de l element chimique ayant pour abreviation Ar;Argon;;;
+2;Science;COURT;Quel est le nom de l element chimique ayant pour abreviation C;Carbonne;;;
+1;Science;COURT;Quel est le nom de l element chimique ayant pour abreviation Cl;Chlore;;;
+2;Science;COURT;Quel est le nom de l element chimique ayant pour abreviation Au;Or;;;
+1;Science;COURT;Quel est le nom de l element chimique ayant pour abreviation Cu;Cuivre;;;
+2;Science;COURT;Quel est le nom de l element chimique ayant pour abreviation Co;Cobalt;;;
+1;Science;COURT;Quel est le nom de l element chimique ayant pour abreviation Fe;Fer;;;
+1;Science;COURT;Quel est le nom de l element chimique ayant pour abreviation He;Helium;;;
+1;Sport;COURT;Zidane dans l equipe de France de football a porte le maillot numero :;10;;;
 1;Sport;COURT;Combien dure chaque mi-temps en minutes un match de rugby ?;40;;;
 1;Sport;COURT;Combien y a-t-il de joueurs sur le terrain dans une equipe de hockey sur glace ?;6;;;
 2;Sport;COURT;Au judo, avec quelle ceinture debute-t-on ?;Blanche;;;
 2;Sport;COURT;Combien y a-t-il de joueurs dans une equipe de handball ?;7;;;
-1;Sport;COURT;Combien y a-t-il d'epreuves dans le decathlon ?;10;;;
+1;Sport;COURT;Combien y a-t-il d epreuves dans le decathlon ?;10;;;
 2;Sport;COURT;Dans les epreuves du decathlon, figure-t-il le saut en hauteur ?;Oui;;;
 2;Sport;COURT;Combien y a-t-il de joueurs dans une equipe de basketball ?;5;;;
-3;Sport;COURT;Quel est le surnom de l'equipe de football d'Allemagne ?;Die Nationalmannschaf;;;
-3;Sport;COURT;Quel est le nom de l'ancêtre du badminton ?;Le poona;;;
+3;Sport;COURT;Quel est le surnom de l equipe de football d Allemagne ?;Die Nationalmannschaf;;;
+3;Sport;COURT;Quel est le nom de l ancï¿½tre du badminton ?;Le poona;;;
 3;Sport;COURT;"Depuis quelle annee est-ce que le ""patin clap"" est-il utilise en competition de patinage de vitesse ?";1996;;;
 3;Sport;COURT;De quelle origine est la lutte sumo ?;Japonaise;;;
 2;Art;COURT;Qui a peint la Nuit Etoilee ?;Vincent van Gogh;;;
@@ -163,198 +163,198 @@
 1;Art;COURT;Mona Lisa;Leonard de Vinci;;;
 3;Art;COURT;Le Baiser;Gustav Klimt;;;
 3;Art;COURT;Les epoux Arnolfini;Jan van Eyck;;;
-1;Art;COURT;Le fils de l'homme;Rene Magritte;;;
+1;Art;COURT;Le fils de l homme;Rene Magritte;;;
 2;Art;COURT;La Cene;Leonard de Vinci;;;
 2;Art;COURT;Le Printemps;Sandro Botticelli;;;
 1;CINEMA;COURT;Qui a invente le cinema ?;Les freres Lumiere;;;
-2;CINEMA;COURT;Où habite Amelie Poulain ?;Paris;;;
+2;CINEMA;COURT;Oï¿½ habite Amelie Poulain ?;Paris;;;
 3;CINEMA;COURT;La Belle Equipe et Panique sont des films de :;Julien Duvivier;;;
 1;CINEMA;COURT;En France, un film peut recevoir un :;Cesar;;;
 2;CINEMA;COURT;Dans quel film Arletty interprete-t-elle Garance ?;Les Enfants du paradis;;;
 3;CINEMA;COURT;Fahrenheit 451 est un film de :;Louis Malle;;;
 1;CINEMA;COURT;Un film produit a Bollywood est :;Indien;;;
-3;CINEMA;COURT;Quel est l'interprete principal masculin de La Mort aux trousses d'Alfred Hitchcock ?;Cary Grant;;;
+3;CINEMA;COURT;Quel est l interprete principal masculin de La Mort aux trousses d Alfred Hitchcock ?;Cary Grant;;;
 1;CINEMA;COURT;Quel est le realisateur de Titanic ?;James Cameron;;;
 3;CINEMA;COURT;Qui a realise le film La Dolce Vita ?;Federico Fellini;;;
 2;CINEMA;COURT;Combien de films compte la saga de la Guerre des etoiles ?;6;;;
 2;CINEMA;COURT;Dans Casablanca, Humphrey Bogart a pour partenaire :;Ingrid Bergman;;;
-2;HISTOIRE;COURT;En 1 500 av. J.-C., la conquête du territoire français commence avec :;Les Celtes;;;
+2;HISTOIRE;COURT;En 1 500 av. J.-C., la conquï¿½te du territoire franï¿½ais commence avec :;Les Celtes;;;
 1;HISTOIRE;COURT;Vercingetorix est vaincu a Alesia en 52 av. J.-C. par :;Jules Cesar;;;
 3;HISTOIRE;COURT;Clovis Ier est le fondateur de la dynastie :;Merovingienne;;;
-2;HISTOIRE;COURT;Quel surnom donnait-on aux rois merovingiens a cause d’une particularite capillaire ?;Les Chevelus;;;
+2;HISTOIRE;COURT;Quel surnom donnait-on aux rois merovingiens a cause dï¿½une particularite capillaire ?;Les Chevelus;;;
 3;HISTOIRE;COURT;Quel astre rythmait la vie des Gaulois et servait a compter le temps ?;La Lune;;;
 2;HISTOIRE;COURT;En 732, quel souverain de France repousse une armee musulmane a Poitiers ?;Charles Martel;;;
 1;HISTOIRE;COURT;Charlemagne signifie ?;Charles le Grand;;;
 3;HISTOIRE;COURT;Le nom de la celebre epee qui permit a Roland de couvrir la retraite de Charlemagne lors de la bataille de Roncevaux est :;Durandal;;;
-3;HISTOIRE;COURT;Au Ve siecle, la Gaule est ravagee par les Huns. Son chef redoute, dont on dit que l’herbe ne repousse pas derriere son passage, est;Attila;;;
+3;HISTOIRE;COURT;Au Ve siecle, la Gaule est ravagee par les Huns. Son chef redoute, dont on dit que lï¿½herbe ne repousse pas derriere son passage, est;Attila;;;
 1;HISTOIRE;COURT;Le premier roi des Francs fut;Clovis;;;
 2;HISTOIRE;COURT;Meprises par les historiens, les derniers rois merovingiens etaient surnommes les rois :;Les Faineants;;;
-1;HISTOIRE;COURT;En 1347-1348, quel fleau devaste l’Europe ?;La peste noire;;;
-2;LANGUE;COURT;Quel verbe correspond a la definition suivante : “apparaître a la surface de l’eau ou du sol” ?;Affleurer;;;
-3;LANGUE;COURT;Celui qui est “trop long, bavard dans son discours” est : ;Prolixe;;;
-3;LANGUE;COURT;Un homme “dans un etat de decheance physique du fait de l’âge” est :;Decrepit;;;
-3;LANGUE;COURT;“Propos qui consistent a discrediter quelqu’un en rapportant des informations que l’on croit fondees.” Autrement dit : ;La medisance;;;
-3;LANGUE;COURT;Lorsqu’on repare une montre, on dit generalement qu’on la :;Rhabille;;;
-2;LANGUE;COURT;La “bauge” correspond au nom du lieu où se retire :;Le sanglier;;;
-1;LANGUE;COURT;Le mot « omoplate » est-il masculin ?;Non;;;
-1;LANGUE;COURT;Le mot « hormis » est-il bien orthographie ?;Oui;;;
-2;LANGUE;COURT;Vaincre a la premiere personne du singulier au present s'ecrit-il « je vains » ?;Non;;;
-1;LANGUE;COURT;Le proverbe suivant est-il correct : « chassez le naturel, il revient au galop »?;Oui;;;
-1;LANGUE;COURT;Un arc-en-ciel, des « arc-en-ciel » ?;Non;;;
-2;LANGUE;COURT;Le mot  « anagramme » est-il feminin ?;Oui;;;
+1;HISTOIRE;COURT;En 1347-1348, quel fleau devaste lï¿½Europe ?;La peste noire;;;
+2;LANGUE;COURT;Quel verbe correspond a la definition suivante : ï¿½apparaï¿½tre a la surface de lï¿½eau ou du solï¿½ ?;Affleurer;;;
+3;LANGUE;COURT;Celui qui est ï¿½trop long, bavard dans son discoursï¿½ est :ï¿½;Prolixe;;;
+3;LANGUE;COURT;Un homme ï¿½dans un etat de decheance physique du fait de lï¿½ï¿½geï¿½ est :;Decrepit;;;
+3;LANGUE;COURT;ï¿½Propos qui consistent a discrediter quelquï¿½un en rapportant des informations que lï¿½on croit fondees.ï¿½ Autrement dit :ï¿½;La medisance;;;
+3;LANGUE;COURT;Lorsquï¿½on repare une montre, on dit generalement quï¿½on la :;Rhabille;;;
+2;LANGUE;COURT;La ï¿½baugeï¿½ correspond au nom du lieu oï¿½ se retire :;Le sanglier;;;
+1;LANGUE;COURT;Le mot ï¿½ omoplate ï¿½ est-il masculin ?;Non;;;
+1;LANGUE;COURT;Le mot ï¿½ hormis ï¿½ est-il bien orthographie ?;Oui;;;
+2;LANGUE;COURT;Vaincre a la premiere personne du singulier au present s ecrit-il ï¿½ je vains ï¿½ ?;Non;;;
+1;LANGUE;COURT;Le proverbe suivant est-il correct : ï¿½ chassez le naturel, il revient au galop ï¿½?;Oui;;;
+1;LANGUE;COURT;Un arc-en-ciel, des ï¿½ arc-en-ciel ï¿½ ?;Non;;;
+2;LANGUE;COURT;Le motï¿½ ï¿½ï¿½anagrammeï¿½ï¿½ est-il femininï¿½?;Oui;;;
 1;LES REPTILES;COURT;"Quel serpent est surnomme ""serpent a sonnette""?";Le crotale;;;
-2;LES REPTILES;COURT;Quelle espece de serpent avait l'habitude de porter Cleopâtre autour de ses poignets?;Le python royal;;;
-2;LES REPTILES;COURT;"Quel reptile des Etats-Unis tire son nom du mot espagnol ""lagarto"" qui signifie lezard ?";L'alligator;;;
+2;LES REPTILES;COURT;Quelle espece de serpent avait l habitude de porter Cleopï¿½tre autour de ses poignets?;Le python royal;;;
+2;LES REPTILES;COURT;"Quel reptile des Etats-Unis tire son nom du mot espagnol ""lagarto"" qui signifie lezard ?";L alligator;;;
 1;LES REPTILES;COURT;La tortue appartient a quelle famille ?;Reptile;;;
-3;LES REPTILES;COURT;Quel reptile de couleur rose ressemble a un ver de terre ?;L'amphisbaenia;;;
+3;LES REPTILES;COURT;Quel reptile de couleur rose ressemble a un ver de terre ?;L amphisbaenia;;;
 1;LES REPTILES;COURT;Quel reptile, pouvant mesurer 3 metres de long et peser 15 kg, tue sa proie en le serrant tres fort ?;le boa;;;
-2;LES REPTILES;COURT;Quel reptile est appele margouillat sur l'île de La Reunion ?;Le lezard;;;
-2;LES REPTILES;COURT;Quel reptile venant de Madagascar est un expert du mimetisme?;L'uroplates;;;
-3;LES REPTILES;COURT;Quelle tortue d'eau douce a une tête triangulaire et une carapace molle ?;La trionyx triunguis;;;
+2;LES REPTILES;COURT;Quel reptile est appele margouillat sur l ï¿½le de La Reunion ?;Le lezard;;;
+2;LES REPTILES;COURT;Quel reptile venant de Madagascar est un expert du mimetisme?;L uroplates;;;
+3;LES REPTILES;COURT;Quelle tortue d eau douce a une tï¿½te triangulaire et une carapace molle ?;La trionyx triunguis;;;
 1;LES REPTILES;COURT;Que signifie reptile ?;Qui rampe;;;
-3;LES REPTILES;COURT;Quel crocodile asiatique est en danger d'extinction ?;Le gavial du Gange;;;
+3;LES REPTILES;COURT;Quel crocodile asiatique est en danger d extinction ?;Le gavial du Gange;;;
 3;LES REPTILES;COURT;Quelle est la plus petite tortue terrestre ?;La tortue de Kleinmann;;;
-2;LES VACCINS;COURT;Qui est a l'origine de la vaccination contre la variole ?;Edward Jenner;;;
+2;LES VACCINS;COURT;Qui est a l origine de la vaccination contre la variole ?;Edward Jenner;;;
 2;LES VACCINS;COURT;En quelle annee le premier vaccin contre la rage fut-il mis au point ?;1885;;;
-1;LES VACCINS;COURT;Quelle est l'etymologie des mots « vaccin » et « vaccination » ?;Vache;;;
-2;LES VACCINS;COURT;De quand date la premiere obligation vaccinale en France pour l'ensemble de la population ?;1902;;;
-1;LES VACCINS;COURT;Quel etait le nom de l'association creee en 1948 par le Pr Jules Tissot ?;La Ligue Sante et Liberte;;;
+1;LES VACCINS;COURT;Quelle est l etymologie des mots ï¿½ vaccin ï¿½ et ï¿½ vaccination ï¿½ ?;Vache;;;
+2;LES VACCINS;COURT;De quand date la premiere obligation vaccinale en France pour l ensemble de la population ?;1902;;;
+1;LES VACCINS;COURT;Quel etait le nom de l association creee en 1948 par le Pr Jules Tissot ?;La Ligue Sante et Liberte;;;
 3;LES VACCINS;COURT;Quelle vaccination a ete rendue obligatoire en France par la loi du 25 juin 1938 ?;Antidiphterique;;;
-3;LES VACCINS;COURT;Aux etats-Unis, quel organisme, dependant conjointement des CDC et de la FDA,  est charge de la pharmacovigilance pour les vaccins ?;VAERS;;;
-3;LES VACCINS;COURT;Dans quel pays la grippe A(H1N1) 2009, pour laquelle l'OMS a modifie la definition d'une pandemie, est-elle apparue ?;Mexique;;;
-3;LES VACCINS;COURT;En 1991, le ministre de la Sante italien, Francesco de Lorenzo, a touche une forte somme d'un laboratoire pour rendre un vaccin obligatoire. Lequel ?;Engerix B;;;
-1;LES VACCINS;COURT;Est-il possible de faire plusieurs vaccins en même temps ?;Oui;;;
-1;LES VACCINS;COURT;Est-ce que la vaccination c'est aussi pour les adultes ?;Oui;;;
+3;LES VACCINS;COURT;Aux etats-Unis, quel organisme, dependant conjointement des CDC et de la FDA,ï¿½ est charge de la pharmacovigilance pour les vaccins ?;VAERS;;;
+3;LES VACCINS;COURT;Dans quel pays la grippe A(H1N1) 2009, pour laquelle l OMS a modifie la definition d une pandemie, est-elle apparue ?;Mexique;;;
+3;LES VACCINS;COURT;En 1991, le ministre de la Sante italien,ï¿½Francesco de Lorenzo, a touche une forte somme d un laboratoire pour rendre un vaccin obligatoire. Lequel ?;Engerix B;;;
+1;LES VACCINS;COURT;Est-il possible de faire plusieurs vaccins en mï¿½me temps ?;Oui;;;
+1;LES VACCINS;COURT;Est-ce que la vaccination c est aussi pour les adultes ?;Oui;;;
 ;LES VACCINS;COURT;Existe-t-il un vaccin contre Ebola;Oui;;;
 2;INFORMATIQUE;COURT;Quel est le langage informatique le plus courant utilise pour ecrire les pages web ?;HTML;;;
 2;INFORMATIQUE;COURT;a quoi est egal 1 octet ?;A 8 bits;;;
-3;INFORMATIQUE;COURT;Comment s’appelle la technique utilisee par les fraudeurs qui consiste a derober vos informations personnelles (n° de carte de credit, mots de passe, etc.) en se faisant passer pour votre banque via un courrier electronique ou un site web falsifie ?;Le phishing;;;
-3;INFORMATIQUE;COURT;Comment appelle-t-on un logiciel dont l’utilisateur doit retribuer l’auteur s’il veut continuer a l’utiliser apres une periode de gratuite ?;Un shareware;;;
-1;INFORMATIQUE;COURT;Qu’est-ce qu’un CPU ?;Un processeur;;;
-3;INFORMATIQUE;COURT;En quelle unite mesure-t-on la frequence (nombre de cycles par seconde) d’un microprocesseur ?;En GHz;;;
-3;INFORMATIQUE;COURT;Comment s’appelle un logiciel malveillant installe dans un ordinateur dans le but de collecter et transferer des informations sans que l’utilisateur en ait connaissance ?;Un spyware;;;
-1;INFORMATIQUE;COURT;Comment appelle-t-on l´ecran de l’ordinateur ?;Le moniteur;;;
-1;INFORMATIQUE;COURT;Quelle est la combinaison de touches qui permet de selectionner tous les fichiers d’un repertoire sous Windows ?;Ctrl + A;;;
-2;INFORMATIQUE;COURT;Comment appelle-t-on les connecteurs utilises pour brancher les câbles d’un reseau informatique ?;RJ45;;;
+3;INFORMATIQUE;COURT;Comment sï¿½appelle la technique utilisee par les fraudeurs qui consiste a derober vos informations personnelles (nï¿½ de carte de credit, mots de passe, etc.) en se faisant passer pour votre banque via un courrier electronique ou un site web falsifie ?;Le phishing;;;
+3;INFORMATIQUE;COURT;Comment appelle-t-on un logiciel dont lï¿½utilisateur doit retribuer lï¿½auteur sï¿½il veut continuer a lï¿½utiliser apres une periode de gratuite ?;Un shareware;;;
+1;INFORMATIQUE;COURT;Quï¿½est-ce quï¿½un CPU ?;Un processeur;;;
+3;INFORMATIQUE;COURT;En quelle unite mesure-t-on la frequence (nombre de cycles par seconde) dï¿½un microprocesseur ?;En GHz;;;
+3;INFORMATIQUE;COURT;Comment sï¿½appelle un logiciel malveillant installe dans un ordinateur dans le but de collecter et transferer des informations sans que lï¿½utilisateur en ait connaissance ?;Un spyware;;;
+1;INFORMATIQUE;COURT;Comment appelle-t-on lï¿½ecran de lï¿½ordinateur ?;Le moniteur;;;
+1;INFORMATIQUE;COURT;Quelle est la combinaison de touches qui permet de selectionner tous les fichiers dï¿½un repertoire sous Windows ?;Ctrl + A;;;
+2;INFORMATIQUE;COURT;Comment appelle-t-on les connecteurs utilises pour brancher les cï¿½bles dï¿½un reseau informatique ?;RJ45;;;
 2;INFORMATIQUE;COURT;Que veut dire FTP ?;File Transfer Protocol;;;
-1;INFORMATIQUE;COURT;Qui est le fondateur d'apple ?;Steve Jobs;;;
+1;INFORMATIQUE;COURT;Qui est le fondateur d apple ?;Steve Jobs;;;
 1;Geographie;QCM;La capitale de la Suisse est :;Berne;Zurich;Geneve;Lausanne
 2;Geographie;QCM;La ville de Maastricht se situe :;Aux Pays-Bas;Dans la banlieue de Strasbourg;En Grande-Bretagne;En Belgique
 2;Geographie;QCM;Le Tibre coule en :;Italie;Espagne;Turquie;Croatie
-1;Geographie;QCM;L'altitude du Mont Blanc est de :;4807 m;5 235 m;8707 m;3404 m
+1;Geographie;QCM;L altitude du Mont Blanc est de :;4807 m;5 235 m;8707 m;3404 m
 2;Geographie;QCM;La capitale du Maroc est :;Rabat;Casablanca;Tanger;Marrakech
-3;Geographie;QCM;La Sierra Leone est :;Un pays d'Afrique.;Une chaîne montagneuse au Mexique.;Un air populaire espagnol.;Une riviere americaine.
-3;Geographie;QCM;La ville de Calcutta se trouve :;En Inde.;Au Pakistan.;Au Bangladesh.;En Thaïlande.
-3;Geographie;QCM;Quelle est la capitale de l'île de Malte ?;La Valette;Riga;Tallinn;Lagos
-1;Geographie;QCM;Le mausolee appele Taj Mahal est edifie :;En Inde.;Au Pakistan.;Au Bangladesh.;En Thaïlande.
-1;Geographie;QCM;La vegetation espacee de touffes de plantes basses et parfumees que l'on rencontre en milieu mediterraneen sur des sols calcaires s'appelle:;Le maquis.;La steppe.;La garrigue.;La lande.
+3;Geographie;QCM;La Sierra Leone est :;Un pays d Afrique.;Une chaï¿½ne montagneuse au Mexique.;Un air populaire espagnol.;Une riviere americaine.
+3;Geographie;QCM;La ville de Calcutta se trouve :;En Inde.;Au Pakistan.;Au Bangladesh.;En Thaï¿½lande.
+3;Geographie;QCM;Quelle est la capitale de l ï¿½le de Malte ?;La Valette;Riga;Tallinn;Lagos
+1;Geographie;QCM;Le mausolee appele Taj Mahal est edifie :;En Inde.;Au Pakistan.;Au Bangladesh.;En Thaï¿½lande.
+1;Geographie;QCM;La vegetation espacee de touffes de plantes basses et parfumees que l on rencontre en milieu mediterraneen sur des sols calcaires s appelle:;Le maquis.;La steppe.;La garrigue.;La lande.
 2;Geographie;QCM;La capitale de la Colombie est :;Bogota;Casablanca;Tanger;Marrakech
-3;Geographie;QCM;Le Pô est :;Un fleuve en Italie.;Un volcan au Perou.;Le theâtre japonais.;Une plaine des Alpes.
-3;Science;QCM;La maree est due a :;L'attraction du Soleil ou de la Lune sur les oceans.;L'action des vents sur les oceans.;L'action des champs magnetiques.;La rotation de la Terre.
+3;Geographie;QCM;Le Pï¿½ est :;Un fleuve en Italie.;Un volcan au Perou.;Le theï¿½tre japonais.;Une plaine des Alpes.
+3;Science;QCM;La maree est due a :;L attraction du Soleil ou de la Lune sur les oceans.;L action des vents sur les oceans.;L action des champs magnetiques.;La rotation de la Terre.
 2;Science;QCM;La baleine est :;Un mammifere;Un poisson;Un batracien;Un ovipare
-3;Science;QCM;L'echelle de Beaufort mesure :;La force du vent.;La vitesse des courants.;L'intensite des tremblements de terre.;La teneur en matieres grasses des fromages de montagne.
-3;Science;QCM;Parmi les champignons suivants, lequel est comestible ?;La trompette de la mort.;Le bolet satan.;L'amanite phalloïde.;Le tue-mouches.
-2;Science;QCM;SIDA signifie :;Syndrome d'immuno-deficience acquise;Symptôme intensif depressionnel acquis.;Systeme immunitaire de defense aux allergies.;Symptôme immunodeficitaire accelere.
-1;Science;QCM;L'unite de resistance electrique est :;L'ohm.;L'ampere.;Le watt.;Le volt
+3;Science;QCM;L echelle de Beaufort mesure :;La force du vent.;La vitesse des courants.;L intensite des tremblements de terre.;La teneur en matieres grasses des fromages de montagne.
+3;Science;QCM;Parmi les champignons suivants, lequel est comestible ?;La trompette de la mort.;Le bolet satan.;L amanite phalloï¿½de.;Le tue-mouches.
+2;Science;QCM;SIDA signifie :;Syndrome d immuno-deficience acquise;Symptï¿½me intensif depressionnel acquis.;Systeme immunitaire de defense aux allergies.;Symptï¿½me immunodeficitaire accelere.
+1;Science;QCM;L unite de resistance electrique est :;L ohm.;L ampere.;Le watt.;Le volt
 3;Science;QCM;Thomas Edison a invente :;Le phonographe.;Le laser.;Le cinematographe.;Le telephone.
 2;Science;QCM;On doit a Pasteur le vaccin contre;La rage.;La tuberculose.;La fievre jaune.;La rougeole.
-1;Science;QCM;La formule E=mc² a ete enoncee pour la premiere fois par :;Einstein.;Leprince-Ringuet.;Gay-Lussac.;Pierre et Marie Curie.
-3;Science;QCM;La discipline creee par Sigmund Freud est :;La psychanalyse;La sociologie.;La psychologie.;L'epidemiologie.
+1;Science;QCM;La formule E=mcï¿½ a ete enoncee pour la premiere fois par :;Einstein.;Leprince-Ringuet.;Gay-Lussac.;Pierre et Marie Curie.
+3;Science;QCM;La discipline creee par Sigmund Freud est :;La psychanalyse;La sociologie.;La psychologie.;L epidemiologie.
 1;Science;QCM;La revolution terrestre dure environ :;365 jours;24 heures;sept jours;30 jours
 1;Science;QCM;La plus grosse planete du systeme solaire est :;Jupiter;La Terre;Saturne;Neptune
 2;Sport;QCM;Qui a remporte le tournoi de tennis de Roland-Garros en 2008?;Nadal;Monfils;Federer;Kyrgios
-2;Sport;QCM;Quels pays se sont affrontes en final de l'Euro de football 2008?;L’Allemagne et l’Espagne;L’Italie et la France;L’Espagne et l’Italie;L’Espagne et la France
-1;Sport;QCM;Quel pays a remporte le titre olympique en hand-ball en 2008?;La France;La Russie;La Grece;L'Italie
-1;Sport;QCM;Quel pays a remporte la Coupe du monde de rugby en 2007 ?;L’Afrique du Sud;La Russie; La France;L’Angleterre
+2;Sport;QCM;Quels pays se sont affrontes en final de l Euro de football 2008?;Lï¿½Allemagne et lï¿½Espagne;Lï¿½Italie et la France;Lï¿½Espagne et lï¿½Italie;Lï¿½Espagne et la France
+1;Sport;QCM;Quel pays a remporte le titre olympique en hand-ball en 2008?;La France;La Russie;La Grece;L Italie
+1;Sport;QCM;Quel pays a remporte la Coupe du monde de rugby en 2007 ?;Lï¿½Afrique du Sud;La Russie;ï¿½La France;Lï¿½Angleterre
 2;Sport;QCM;Qui a remporte le Tour de France de cyclisme en 2007 ?;Alberto Contador;Levi Leipheimer;Cadel Evans;Monfils
-3;Sport;QCM;Quel est le meilleur buteur de l'equipe de France de football depuis octobre 2007 ?;Thierry Henry;David Trezeguet;Zinedine Zidane;Cadel Evans
-3;Sport;QCM;Combien de medailles a obtenu la nageuse française Laure Manaudou aux JO de 2008 ?;Une;Aucune;Deux;six
-2;Sport;QCM;Quelle est la nationalite de l'athlete Usain Boit qui a remporte trois medailles d'or olympique en 2008 ?;Jamaïcaine;Britannique;Americaine;Francaise
+3;Sport;QCM;Quel est le meilleur buteur de l equipe de France de football depuis octobre 2007 ?;Thierry Henry;David Trezeguet;Zinedine Zidane;Cadel Evans
+3;Sport;QCM;Combien de medailles a obtenu la nageuse franï¿½aise Laure Manaudou aux JO de 2008 ?;Une;Aucune;Deux;six
+2;Sport;QCM;Quelle est la nationalite de l athlete Usain Boit qui a remporte trois medailles d or olympique en 2008 ?;Jamaï¿½caine;Britannique;Americaine;Francaise
 3;Sport;QCM;Qui a remporte le Championnat du monde de Formule 1 en 2007 ?;Kimi Raikkonen;Fernando Alonso;Lewis Hamilton;Alain Prost
-1;Sport;QCM;Qui a remporte le Championnat du monde de rallye en 2007 ?;Sebastien Loeb;Petter Solberg;Marcus Grönholm;Alain Prost
-1;Sport;QCM;Que signifie la lettre « B » dans le sigle NBA ?;Basketball;Baseball;Badmington;Ballon
-3;Sport;QCM;Dans quel sport Tiger Woods est-il le champion le plus titre ?;Le golf;Le tir a l’arc;Le hockey sur glace;Le football
-1;Art;QCM;On considere Eschyle comme le createur :;De la tragedie;De la comedie;Du theâtre engage;Du theâtre demagogique
+1;Sport;QCM;Qui a remporte le Championnat du monde de rallye en 2007 ?;Sebastien Loeb;Petter Solberg;Marcus Grï¿½nholm;Alain Prost
+1;Sport;QCM;Que signifie la lettre ï¿½ B ï¿½ dans le sigle NBA ?;Basketball;Baseball;Badmington;Ballon
+3;Sport;QCM;Dans quel sport Tiger Woods est-il le champion le plus titre ?;Le golf;Le tir a lï¿½arc;Le hockey sur glace;Le football
+1;Art;QCM;On considere Eschyle comme le createur :;De la tragedie;De la comedie;Du theï¿½tre engage;Du theï¿½tre demagogique
 2;Art;QCM;"Qui a peint ""Le Cheval blanc"" ?";Paul Gauguin;Eugene Delacroix;Paul Cezanne;Edouard Manet
 1;Art;QCM;"Qui a ecrit ""Madame Bovary"" ?";Gustave Flaubert;Alphonse Daudet;Honore de Balzac;Jules Verne
 3;Art;QCM;Marc Chagall est un peintre du :;XXeme siecle;XIXeme siecle;XVIIIeme siecle;XVIIeme siecle
-2;Art;QCM;Laquelle de ces œuvres n'a pas ete ecrite par Albert Camus ?;"""Les Mains sales""";"""L ""etranger""";"""La Peste""";"""Caligula"""
+2;Art;QCM;Laquelle de ces ï¿½uvres n a pas ete ecrite par Albert Camus ?;"""Les Mains sales""";"""L ""etranger""";"""La Peste""";"""Caligula"""
 2;Art;QCM;Joan Miro est celebre pour :;Ses peintures;Ses chansons;Ses statues;Ses romans
-1;Art;QCM;"L'œuvre ""Les Lettres persanes"" a ete ecrite par :";Montesquieu;Jean Gilles;Voltaire;Rousseau
+1;Art;QCM;"L ï¿½uvre ""Les Lettres persanes"" a ete ecrite par :";Montesquieu;Jean Gilles;Voltaire;Rousseau
 2;Art;QCM;Grimm est celebre pour :;Ses contes;Ses essais philosophiques;Ses pieces;Ses romans
 3;Art;QCM;Le festival de Woodstock, qui a dure trois jours et qui a rassemble des grands noms de la musique Pop, a eu lieu en;1969;1970;1971;1972
 3;Art;QCM;Les grottes de Lascaux ont ete decouvertes en :;1940;1941;1942;1943
 1;Art;QCM;Quel est le peintre de La Joconde;Vinci;Jean Gilles;Voltaire;Rousseau
 3;Art;QCM;"Quel artiste a peint ""Les joueurs de cartes"" ?";Paul Cezanne;Gustave Caillebotte;Edouard Manet;Vinci
-1;CINEMA;QCM;Le premier film realise au monde et presente par les freres Lumiere s'appelait :;La sortie des usines Lumiere a Lyon;La partie d'ecarte;Le dejeuner de bebe;L'arroseur arrose
-2;CINEMA;QCM;Ce film de 1929, signe Luis Bunuel et Salvador Dali, d'une duree de 17 mnn, passe pour le chef-d'œuvre du cinema surrealiste :;Un chien andalou;L'âge d'or;Los Olvidados;L'arroseur arrose
-2;CINEMA;QCM;Il est Français, n'a realise que deux films, est mort a 29 ans, a donne son nom a un prix. C'est :;JeanVigo;Gustave Caillebotte;Edouard Manet;Vinci
-2;CINEMA;QCM;Il a ete le fondateur de la Cinematheque française en 1936 et a consacre pres de 50 ans de sa vie a cette institution. Il s'appelait :;Langlois;JeanVigo;Gustave Caillebotte;Edouard Manet
-2;CINEMA;QCM;Dans ce film de Marc Allegret tourne en 1938, avec des dialogues d'Henri Jeanson, Louis Jouvet joue son personnage de professeur au conservatoire :;Entree des artistes;L'âge d'or;Los Olvidados;L'arroseur arrose
-3;CINEMA;QCM;"Pour un premier film ""Un monde sans pitie"" a connu en 1990 un bon succes. Son realisateur s'appelle :";Eric Rochant;Langlois;JeanVigo;Edouard Manet
+1;CINEMA;QCM;Le premier film realise au monde et presente par les freres Lumiere s appelait :;La sortie des usines Lumiere a Lyon;La partie d ecarte;Le dejeuner de bebe;L arroseur arrose
+2;CINEMA;QCM;Ce film de 1929, signe Luis Bunuel et Salvador Dali, d une duree de 17 mnn, passe pour le chef-d ï¿½uvre du cinema surrealiste :;Un chien andalou;L ï¿½ge d or;Los Olvidados;L arroseur arrose
+2;CINEMA;QCM;Il est Franï¿½ais, n a realise que deux films, est mort a 29 ans, a donne son nom a un prix. C est :;JeanVigo;Gustave Caillebotte;Edouard Manet;Vinci
+2;CINEMA;QCM;Il a ete le fondateur de la Cinematheque franï¿½aise en 1936 et a consacre pres de 50 ans de sa vie a cette institution. Il s appelait :;Langlois;JeanVigo;Gustave Caillebotte;Edouard Manet
+2;CINEMA;QCM;Dans ce film de Marc Allegret tourne en 1938, avec des dialogues d Henri Jeanson, Louis Jouvet joue son personnage de professeur au conservatoire :;Entree des artistes;L ï¿½ge d or;Los Olvidados;L arroseur arrose
+3;CINEMA;QCM;"Pour un premier film ""Un monde sans pitie"" a connu en 1990 un bon succes. Son realisateur s appelle :";Eric Rochant;Langlois;JeanVigo;Edouard Manet
 3;CINEMA;QCM;Hugo Cabret est un film realise par:;Martin Scorsese;Langlois;JeanVigo;Edouard Manet
-1;CINEMA;QCM;Quelle recompense est attribuee au festival de Cannes;La palme d'or;La palme de bois;la cuillere d'argent;Le blousons rouge
+1;CINEMA;QCM;Quelle recompense est attribuee au festival de Cannes;La palme d or;La palme de bois;la cuillere d argent;Le blousons rouge
 3;CINEMA;QCM;Quelle ville accueille un festival du film policier?;Beaune;Paris;Pino;Bastia
 1;CINEMA;QCM;En quelle annee le Titanic a-t-il fait naufrage?;1912;1948;1963;1908
-3;CINEMA;QCM;Comment est mort l’acteur americain James Dean en 1955 :;Accident de voiture;Ecrase par un arbre ;Une overdose;En voyant le TP de java
-1;CINEMA;QCM;Dans quelle ville se deroule l’action du film Bienvenue chez les Ch’tis ?;Bergues;Rome;Paris;Barcelone
+3;CINEMA;QCM;Comment est mort lï¿½acteur americain James Dean en 1955 :;Accident de voiture;Ecrase par un arbre ;Une overdose;En voyant le TP de java
+1;CINEMA;QCM;Dans quelle ville se deroule lï¿½action du film Bienvenue chez les Chï¿½tis ?;Bergues;Rome;Paris;Barcelone
 1;HISTOIRE;QCM;Isaac Newton etait :;Un savant anglais.;Un homme politique americain.;Un musicien de jazz.;Un premier ministre israelien.
-1;HISTOIRE;QCM;Le 6 juin 1944 s'est produit:;Le debarquement allie en Normandie.;L'armistice de la Seconde Guerre mondiale.;La liberation de Paris.;L'appel du general de Gaulle a ne pas capituler.
-1;HISTOIRE;QCM;«C'est un petit pas pour l'homme, mais un bond de geant pour l'humanite». Cette phrase celebre a ete prononcee en :;1969 par Neil Amstrong.;1969 par John Kennedy.;1970 par le dalaï-lama.;1971 par Martin Luther King.
-2;HISTOIRE;QCM;Quel president des etats-Unis a ete mêle a l'affaire dite du Watergate ?;Richard Nixon.;Bill Clinton.;John Kennedy.;Franklin Delanoe Roosevelt.
-3;HISTOIRE;QCM;La premiere Republique française a ete proclamee en :;1792;1794;1796;1798
-2;HISTOIRE;QCM;L'Academie française a ete creee sous :;Louis XIII.;Louis XIV.;Henri IV.;Napoleon Ier.
-1;HISTOIRE;QCM;Christophe Colomb a decouvert l'Amerique en :;1492;1493;1494;1495
-3;HISTOIRE;QCM;Le president Leopold Sedar Senghor a ete de 1960 a 1980 chef d'etat :;Du Senegal.; Du Cameroun.;Du Gabon.;De Côte d'Ivoire.
+1;HISTOIRE;QCM;Le 6 juin 1944 s est produit:;Le debarquement allie en Normandie.;L armistice de la Seconde Guerre mondiale.;La liberation de Paris.;L appel du general de Gaulle a ne pas capituler.
+1;HISTOIRE;QCM;ï¿½C est un petit pas pour l homme, mais un bond de geant pour l humaniteï¿½. Cette phrase celebre a ete prononcee en :;1969 par Neil Amstrong.;1969 par John Kennedy.;1970 par le dalaï¿½-lama.;1971 par Martin Luther King.
+2;HISTOIRE;QCM;Quel president des etats-Unis a ete mï¿½le a l affaire dite du Watergate ?;Richard Nixon.;Bill Clinton.;John Kennedy.;Franklin Delanoe Roosevelt.
+3;HISTOIRE;QCM;La premiere Republique franï¿½aise a ete proclamee en :;1792;1794;1796;1798
+2;HISTOIRE;QCM;L Academie franï¿½aise a ete creee sous :;Louis XIII.;Louis XIV.;Henri IV.;Napoleon Ier.
+1;HISTOIRE;QCM;Christophe Colomb a decouvert l Amerique en :;1492;1493;1494;1495
+3;HISTOIRE;QCM;Le president Leopold Sedar Senghor a ete de 1960 a 1980 chef d etat :;Du Senegal.;ï¿½Du Cameroun.;Du Gabon.;De Cï¿½te d Ivoire.
 2;HISTOIRE;QCM;Le proces de Nuremberg a eu lieu en :;1945;1946;1947;1948
-3;HISTOIRE;QCM;Lequel de ces hommes politiques n'a pas ete President de la Republique ?;Georges Clemenceau.;Mac-Mahon.;Felix Faure.;Raymond Poincare.
-3;HISTOIRE;QCM;Le conflit des Malouines a oppose :;Le Royaume-Uni a l'Argentine.;Le Royaume-Uni au Perou.;Le Portugal a l'Argentine.;Le Royaume-Uni au Chili.
-2;HISTOIRE;QCM;Valery Giscard d’Estaing a ete elu president de la Republique française en :;1974;1978;1982;1986
+3;HISTOIRE;QCM;Lequel de ces hommes politiques n a pas ete President de la Republique ?;Georges Clemenceau.;Mac-Mahon.;Felix Faure.;Raymond Poincare.
+3;HISTOIRE;QCM;Le conflit des Malouines a oppose :;Le Royaume-Uni a l Argentine.;Le Royaume-Uni au Perou.;Le Portugal a l Argentine.;Le Royaume-Uni au Chili.
+2;HISTOIRE;QCM;Valery Giscard dï¿½Estaing a ete elu president de la Republique franï¿½aise en :;1974;1978;1982;1986
 3;LANGUE;QCM;On ecrit... ?;Sibyllin;Sybillin;Les deux;JSP
 3;LANGUE;QCM;Le verbe venir, au subjonctif, fait... ?;Que je vinse;Que je vinsse;Les deux;Bonne question
-2;LANGUE;QCM;On dit... ?;Suzanne ne souhaite pas que la police s'interesse de trop pres a son passe;Suzanne ne souhaite pas que la police ne s'interesse de trop pres a son passe;Suzanne ne souhaite po que la police ne s'interesse de trop pres a son passe;Suzanne ne souhaite pas que la police ne s'interesse de trop pre a so pase
+2;LANGUE;QCM;On dit... ?;Suzanne ne souhaite pas que la police s interesse de trop pres a son passe;Suzanne ne souhaite pas que la police ne s interesse de trop pres a son passe;Suzanne ne souhaite po que la police ne s interesse de trop pres a son passe;Suzanne ne souhaite pas que la police ne s interesse de trop pre a so pase
 2;LANGUE;QCM;Au conditionnel, le verbe prier fait... ?;Nous prierions;Nous pririons;Nous pririon;Nous prirrions
 3;LANGUE;QCM;Comment nomme-t-on les habitants de Nuits-Saint-Georges  ?;Les Nuitons;Les Georgeois;Les Nuits-Saint-Georgiens;Les joureux
-3;LANGUE;QCM;Quel est le verbe mouvoir au passe simple ?;Je mus, tu mus…;Je mus, tu mus…;Je mous, tu mous..;Je sais pas, tu sais pas…
-1;LANGUE;QCM;Un billion, en France, c'est... ?;Un million de millions;Cent millions;Mille millions;Un milliard
+3;LANGUE;QCM;Quel est le verbe mouvoir au passe simple ?;Je mus, tu musï¿½;Je mus, tu musï¿½;Je mous, tu mous..;Je sais pas, tu sais pasï¿½
+1;LANGUE;QCM;Un billion, en France, c est... ?;Un million de millions;Cent millions;Mille millions;Un milliard
 1;LANGUE;QCM;Anagramme est du genre... ?;Feminin;Masculin;Les deux;Non binaire
-2;LANGUE;QCM;Comment accorde-t-on ?;Cette affaire etait plus serieuse que nous ne l'avions cru;Cette affaire etait plus serieuse que nous ne l'avions crue;Indifferemment;Je sais pas
-1;LANGUE;QCM;Un mot qui s'ecrit ou se prononce comme un autre tout en signifiant autre chose est un :;homonyme;antonyme;paronyme;synonyme
+2;LANGUE;QCM;Comment accorde-t-on ?;Cette affaire etait plus serieuse que nous ne l avions cru;Cette affaire etait plus serieuse que nous ne l avions crue;Indifferemment;Je sais pas
+1;LANGUE;QCM;Un mot qui s ecrit ou se prononce comme un autre tout en signifiant autre chose est un :;homonyme;antonyme;paronyme;synonyme
 2;LANGUE;QCM;Je, tu, il, etc., sont des pronoms :;atones;presubstantiviaux;toniques;postverbaux
-1;LANGUE;QCM;Conjonctions de coordination, le français en possede :; 7;5; 8;6
+1;LANGUE;QCM;Conjonctions de coordination, le franï¿½ais en possede :;ï¿½7;5;ï¿½8;6
 3;LES REPTILES;QCM;Quelles sont les particularites du Cameleon ?;Il peut changer de couleur selon son environnemment.;Il vole;Il ne se nourrit pas;Il est transparent
-2;LES REPTILES;QCM;De quoi se nourrit le crocodile du Nil, exceptionnellement ?;De bebes hippopotames;D'insectes;D'elephants;D'Hommes
-3;LES REPTILES;QCM;Quel est le poids d'un Dragon de Komodo dans la nature, en moyenne ?;70kg;129kg;170kg;100kg
+2;LES REPTILES;QCM;De quoi se nourrit le crocodile du Nil, exceptionnellement ?;De bebes hippopotames;D insectes;D elephants;D Hommes
+3;LES REPTILES;QCM;Quel est le poids d un Dragon de Komodo dans la nature, en moyenne ?;70kg;129kg;170kg;100kg
 3;LES REPTILES;QCM;Dans quelle famille la tortue se trouve-t-elle ?;Les Testudines;Les Tortunides;Les Carapacides;Les tortues Ninja
-2;LES REPTILES;QCM;Combien d'especes Aristote comptait-il ?;Cinquante;Quarante;Trente;zero
-2;LES REPTILES;QCM;Combien d'especes de tortues existe-t-il ?;320;330;340;350
+2;LES REPTILES;QCM;Combien d especes Aristote comptait-il ?;Cinquante;Quarante;Trente;zero
+2;LES REPTILES;QCM;Combien d especes de tortues existe-t-il ?;320;330;340;350
 1;LES REPTILES;QCM;Comment sont les pattes des crocodiles ?;Palmees;Plates;Semi-palmees;carrees
 1;LES REPTILES;QCM;Quelle est la forme de leur queue ?;Fusiforme;Omniforme;Cruciforme;multiforme
 1;LES REPTILES;QCM;Quel est le regime des reptiles ?;Herbivore;Omnivore;Detox; crudivore
 1;LES REPTILES;QCM;Quels Etats des Etats-Unis consomment des alligators ?;La Floride;La corse;Washington;Mexico
 2;LES REPTILES;QCM;Quel reptilien tue le plus les humains ?;Le serpent;Le crocodile;Le cameleon;Les tortues
-1;LES REPTILES;QCM;Combien d'especes sont menacees d'extinction ?;469;346;268;154
+1;LES REPTILES;QCM;Combien d especes sont menacees d extinction ?;469;346;268;154
 1;LES VACCINS;QCM;Un anticorps est un element...;Porte ou produit par les lymphocytes;Porte ou produit par un micro-organisme;Porte ou produit par les virus;Porte ou produit par toutes les cellules du corps
-1;LES VACCINS;QCM;L'interêt des rappels de vaccination est de...;Stimuler la production d'anticorps;Empêcher l'entree des micro-organismes;Creer une immunite face a d'autres maladies;Detruire les micro-organismes s'ils sont presents lors des injections de rappel
-2;LES VACCINS;QCM;Pour les enfants nes apres janvier 2018, quels sont les vaccins obligatoires ?;Tous;La diphterie, le tetanos, la poliomyelite;La rougeole, les oreillons, la rubeole, le pneumocoque, l'hepatite B;La coqueluche, l'haemophilus influenzae b, le meningocoque C
-2;LES VACCINS;QCM;a partir de quel âge est-il conseille de se faire vacciner contre la rubeole, les oreillons et la rougeole ?;1 an;6 mois;2 ans;4 ans
+1;LES VACCINS;QCM;L interï¿½t des rappels de vaccination est de...;Stimuler la production d anticorps;Empï¿½cher l entree des micro-organismes;Creer une immunite face a d autres maladies;Detruire les micro-organismes s ils sont presents lors des injections de rappel
+2;LES VACCINS;QCM;Pour les enfants nes apres janvier 2018, quels sont les vaccins obligatoires ?;Tous;La diphterie, le tetanos, la poliomyelite;La rougeole, les oreillons, la rubeole, le pneumocoque, l hepatite B;La coqueluche, l haemophilus influenzae b, le meningocoque C
+2;LES VACCINS;QCM;a partir de quel ï¿½ge est-il conseille de se faire vacciner contre la rubeole, les oreillons et la rougeole ?;1 an;6 mois;2 ans;4 ans
 2;LES VACCINS;QCM;Quelle est la caracteristique du vaccin contre le tetanos ?;Anatoxine;Il existe pas de vaccin;Micro-organismes complets vivants mais affaiblis;Micro-organismes tues par chauffage ou par formol
 1;LES VACCINS;QCM;Combien y a-t-il de types de vaccins ?;3;1;2;4
 3;LES VACCINS;QCM;Pour quelles affections emploie-t-on des vaccins sous-unitaires ?;La pneumonie a streptocoques;La rage;La rougeole;La grippe
-2;LES VACCINS;QCM;comment s'appelait le premier garçon vaccine apres avoir ete mordu par un chien enrage ?;Joseph Meister;Mac-Mahon.;Felix Faure.;Raymond Poincare.
-3;LES VACCINS;QCM;contre quelle maladie le BCG protege-t-il ?;La tuberculose;La rage;La rougeole;La grippe
-3;LES VACCINS;QCM;avant la mise au point d'un vaccin durant les annees 1960, la rougeole faisait 6 millions de morts par an dans le monde. Combien y en a-t-il eu en 2011 ?;158000;200000;242000;284000
-3;LES VACCINS;QCM;Les premiers essais de vaccination furent realises pour ralentir l'epidemie de la :;variole;La rage;La rougeole;La grippe
-1;LES VACCINS;QCM;La vaccination contre l'hepathite B en France est :;Obligatoire;Obligatoire pour certaines categories professionnelles;Conseillee;Interdite
-3;INFORMATIQUE;QCM;Lequel des langages informatiques suivants est utilise pour l’intelligence artificielle?;PROLOG;FORTRAN;COBOL;Aucune de ces reponses n’est vraie.
-1;INFORMATIQUE;QCM;Le cerveau de tout systeme informatique est ?;CPU;Memoire; Unite de contrôle;Unite arithmetique et logique – ALU
-1;INFORMATIQUE;QCM;Quel protocole fournit un service de messagerie entre differents hôtes?;SMTP;TELNET;SNMP;FTP
-2;INFORMATIQUE;QCM;Le microprocesseur a ete introduit dans quelle generation d’ordinateur?;Quatrieme generation;Deuxieme generation;Troisieme generation;Tout les reponses sont vrais
+2;LES VACCINS;QCM;comment s appelait le premier garï¿½on vaccine apres avoir ete mordu par unï¿½chienï¿½enrageï¿½?;Joseph Meister;Mac-Mahon.;Felix Faure.;Raymond Poincare.
+3;LES VACCINS;QCM;contre quelle maladie le BCG protege-t-ilï¿½?;Laï¿½tuberculose;La rage;La rougeole;La grippe
+3;LES VACCINS;QCM;avant la mise au point d un vaccin durant les annees 1960, laï¿½rougeoleï¿½faisait 6 millions de morts par an dans le monde. Combien y en a-t-il eu en 2011ï¿½?;158000;200000;242000;284000
+3;LES VACCINS;QCM;Les premiers essais de vaccination furent realises pour ralentir l epidemie de la :;variole;La rage;La rougeole;La grippe
+1;LES VACCINS;QCM;La vaccination contre l hepathite B en France est :;Obligatoire;Obligatoire pour certaines categories professionnelles;Conseillee;Interdite
+3;INFORMATIQUE;QCM;Lequel des langages informatiques suivants est utilise pour lï¿½intelligence artificielle?;PROLOG;FORTRAN;COBOL;Aucune de ces reponses nï¿½est vraie.
+1;INFORMATIQUE;QCM;Le cerveau de tout systeme informatique est ?;CPU;Memoire;ï¿½Unite de contrï¿½le;Unite arithmetique et logique ï¿½ ALU
+1;INFORMATIQUE;QCM;Quel protocole fournit un service de messagerie entre differents hï¿½tes?;SMTP;TELNET;SNMP;FTP
+2;INFORMATIQUE;QCM;Le microprocesseur a ete introduit dans quelle generation dï¿½ordinateur?;Quatrieme generation;Deuxieme generation;Troisieme generation;Tout les reponses sont vrais
 1;INFORMATIQUE;QCM;Un programme qui convertit le langage assembleur en langage machine est appele;Assembleur;Interpreteur;Compilateur;Comparateur
-3;INFORMATIQUE;QCM;Le systeme binaire utilise la base ;2;4;6;8
+3;INFORMATIQUE;QCM;Le systeme binaire utilise la baseï¿½;2;4;6;8
 3;INFORMATIQUE;QCM;Lequel des langages suivants est mieux adapte au programmation structure?;PASCAL;PROLOG;FORTRAN;PL/SQL
-2;INFORMATIQUE;QCM;Laquelle des memoires suivantes est non volatile?;ROM; DRAM;SRAM;Tout les reponses sont vrais
+2;INFORMATIQUE;QCM;Laquelle des memoires suivantes est non volatile?;ROM;ï¿½DRAM;SRAM;Tout les reponses sont vrais
 3;INFORMATIQUE;QCM;GUI signifie ?;Graphical User Interface;Graphical Universal Interface;Graph Use Interface;Graphical Unique Interface
-2;INFORMATIQUE;QCM;Le temps pendant lequel une tâche est traitee par l’ordinateur est appele ;Temps d’execution;Temporisation;Temps reel;Temps d’attente
-2;INFORMATIQUE;QCM; Lequel des circuits suivants est utilise comme « Peripheriques de memoire » sur les ordinateurs?;Flip Flop;Comparator;Attenuator;Aucune de ces reponses n’est vraie.
+2;INFORMATIQUE;QCM;Le temps pendant lequel une tï¿½che est traitee par lï¿½ordinateur est appeleï¿½;Temps dï¿½execution;Temporisation;Temps reel;Temps dï¿½attente
+2;INFORMATIQUE;QCM;ï¿½Lequel des circuits suivants est utilise comme ï¿½ï¿½Peripheriques de memoireï¿½ï¿½ sur les ordinateurs?;Flip Flop;Comparator;Attenuator;Aucune de ces reponses nï¿½est vraie.
 1;INFORMATIQUE;QCM;Une erreur est aussi appelee;Bug;Curseur;Icon;Debug

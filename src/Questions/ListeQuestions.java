@@ -10,6 +10,7 @@ import java.util.Scanner;
 
 public class ListeQuestions {
 
+    public Object liste;
 
 
     public void afficherListe(List<Question> listeQuestions){
@@ -64,7 +65,7 @@ public class ListeQuestions {
     public void supprimerQustion(Question question)throws IOException{
 
         File inputFile = new File("src/Questions/questions.txt");
-        File tempFile = new File("src/Questions/temp.txt");
+        File tempFile = new File("src/Questions/temp.txt"); // Utilisation d'un fichier temporaire ou l'on stockera les questions en excluant la question à supprimer.
 
         BufferedReader reader = new BufferedReader(new FileReader(inputFile));
         BufferedWriter writer = new BufferedWriter(new FileWriter(tempFile));
@@ -82,8 +83,13 @@ public class ListeQuestions {
         reader.close();
         boolean successful = tempFile.renameTo(inputFile);
     }
-    public void selectionnerQuestion(List listeQuestions){
-
+    public Question selectionnerQuestion(List<Question> LQ, int difficulte, String theme){
+        int nbrAle = (int) (Math.random() * ((LQ.size()-1 ) +1));
+        Question selection = LQ.get(nbrAle);
+        while (selection.difficulté!=difficulte && selection.thémes!=theme){
+            selection = LQ.get(nbrAle);
+        }
+        return selection;
     }
     public List openfile() throws IOException {
         BufferedReader in = new BufferedReader(new FileReader("src/Questions/questions.txt"));
@@ -115,6 +121,8 @@ public class ListeQuestions {
         System.out.println("\n\n");
         //System.out.println(questions.get(3).texte); // test attribut d'un objet
         in.close();
+
+        liste = questions;
         return  questions;
 
 

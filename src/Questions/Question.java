@@ -19,6 +19,6 @@ public abstract class Question <T> {
     public  abstract  String GenererTxtString(); // permet de générer une ligne à ajouter ou supprimer dans le fichier de sauvegarde en .txt
 
 
-    // Méthodes
+
 
 }

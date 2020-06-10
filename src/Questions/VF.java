@@ -27,7 +27,7 @@ public class VF extends Question {
     };
     public boolean  Saisir(){
         Scanner keyboard = new Scanner(System.in);
-        System.out.println("Veuillez entrer v si la réponse est vrai et faux si la réponse est faux :");
+        System.out.println("Veuillez entrer vrai si la réponse est vrai et faux si la réponse est faux :");
         String saisie = keyboard.nextLine();
         boolean rep;
         if (!saisie.equals("vrai") && !saisie.equals("faux")  ) {
