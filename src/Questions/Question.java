@@ -5,6 +5,8 @@ public abstract class Question <T> {
     String thémes ;
     int numéro;
     int difficulté;
+    String type;
+    String texte;
     T énoncé;
 
     //Constructeur par défault
@@ -12,7 +14,9 @@ public abstract class Question <T> {
 
     // Méthodes abstraite
     public abstract void Afficher();
-    public abstract void  Saisir();
+    public abstract boolean  Saisir();
+    public abstract void AffichageListe();
+    public  abstract  String GenererTxtString(); // permet de générer une ligne à ajouter ou supprimer dans le fichier de sauvegarde en .txt
 
 
     // Méthodes
