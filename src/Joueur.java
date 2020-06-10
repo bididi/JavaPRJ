@@ -24,13 +24,21 @@ public class Joueur {
     }
 
     public void afficher(){
-        System.out.println("nom du joueur : "+ pseudo + "  numéro du joueur : "+ numJoueur + "  Score : "+ score + "  Statut : " + etat);
+        System.out.println("nom du joueur : "+ pseudo + "  n°: "+ numJoueur + "  Score : "+ score + "  Statut : " + etat);
     }
 
     // Mise à jour du score d'un joueur
     public void mAJScore(int points){
         this.score = score + points;
 
+    }
+
+    public int getScore() {
+        return score;
+    }
+
+    public String getpseudo(){
+        return pseudo;
     }
 
     // mise à jour de l'état du joueur

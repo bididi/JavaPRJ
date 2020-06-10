@@ -3,18 +3,15 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Themes
-{
+public class Themes {
 
-ArrayList<String>liste;
-ArrayList<String>ThemeSelect = new ArrayList();
-ArrayList<String>ThemeSelectnow = new ArrayList();
+    ArrayList<String>liste;
+    ArrayList<String>ThemeSelect = new ArrayList();
+    ArrayList<String>ThemeSelectnow = new ArrayList();
 
-public Themes(ArrayList<String>liste)
-{
-
-    this.liste = liste ;
-}
+    public Themes(ArrayList<String>liste) {
+        this.liste = liste ;
+    }
 
 
 
@@ -77,7 +74,8 @@ public void ModifierTheme(int emplacement, String newTheme) throws IOException
     int index = 0 ;
 // Selectionne aléatoirement un thème dans la liste
 
-public void SelectionnerTheme() throws IOException, ClassNotFoundException {
+public String SelectionnerTheme() throws IOException, ClassNotFoundException {
+    String theme = null;
 
     if (index == 10)
     {
@@ -93,10 +91,12 @@ public void SelectionnerTheme() throws IOException, ClassNotFoundException {
 
     int nbrAle = (int) (Math.random() * ((liste.size()-1 ) +1));
     ThemeSelect.add(liste.get(nbrAle));
+    theme = liste.get(nbrAle);
     ThemeSelectnow.add(liste.get(nbrAle));
     liste.remove((nbrAle));
     index++;
     }
+    return theme;
 
 }
     public void SelectionnerThemesNonAlea() throws IOException, ClassNotFoundException {
