@@ -103,7 +103,12 @@ public void SelectionnerTheme() throws IOException, ClassNotFoundException {
 public void SelectionnerCinqThemes() throws IOException, ClassNotFoundException {
     for (int i = 0; i<5 ; i++)
     {
-        SelectionnerTheme();
+
+        int nbrAle = (int) (Math.random() * ((liste.size()-1 ) +1));
+        ThemeSelect.add(liste.get(nbrAle));
+        ThemeSelectnow.add(liste.get(nbrAle));
+        liste.remove((nbrAle));
+        index++;
     }
 }
 
