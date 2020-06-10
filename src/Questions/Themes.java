@@ -127,7 +127,7 @@ public String SelectionnerTheme() throws IOException, ClassNotFoundException {
 
 // selectionne aléatoirement 5 thèmes différents dans la liste
 
-public void SelectionnerCinqThemes() throws IOException, ClassNotFoundException {
+public ArrayList<String> SelectionnerCinqThemes() throws IOException, ClassNotFoundException {
     ThemeSelectnow.clear();
     for (int i = 0; i<6 ; i++)
     {
@@ -139,6 +139,8 @@ public void SelectionnerCinqThemes() throws IOException, ClassNotFoundException 
         liste.remove((nbrAle));
         index++;
     }
+    return ThemeSixSelect ;
+
 }
 
 // affiche la liste des thèmes choisi et les thèmes restant si l'on veut re-selectionner
@@ -155,7 +157,7 @@ public void Afficher(){
     }
     System.out.println("les thèmes déja sélectionés sont" + ThemeSelect);
     System.out.println("le thèmes choisi est" + ThemeSelectnow);
-    System.out.println("la liste des 6 thèmes choisi est" + ThemeSixSelect);
+
 }
 
 
