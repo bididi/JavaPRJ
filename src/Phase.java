@@ -1,4 +1,6 @@
+import java.util.Vector;
+
 public interface Phase {
-    public String selectionnerJoueurs();
-    public int phasedeJeu();
+    public void selectionnerJoueurs();
+    public void phasedeJeu(Vector select);
 }
