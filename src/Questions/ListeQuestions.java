@@ -84,11 +84,22 @@ public class ListeQuestions {
         boolean successful = tempFile.renameTo(inputFile);
     }
     public Question selectionnerQuestion(List<Question> LQ, int difficulte, String theme){
-        int nbrAle = (int) (Math.random() * ((LQ.size()-1 ) +1));
-        Question selection = LQ.get(nbrAle);
-        while (selection.difficulté!=difficulte && selection.thémes!=theme){
-            selection = LQ.get(nbrAle);
+
+        List<Question> listeDiff =new ArrayList<>();
+        List<Question> listeDiffEtTheme = new ArrayList<>();
+        for (int i = 0; i < LQ.size(); i++){
+            if (LQ.get(i).difficulté == difficulte) {
+                System.out.println(LQ.get(i));
+                listeDiff.add(LQ.get(i));
+            }
         }
+
+        for (int i = 0; i < listeDiff.size(); i++){
+            if (listeDiff.get(i).thémes.equals(theme)) listeDiffEtTheme.add(listeDiff.get(i));
+        }
+        int nbrAle = (int) (Math.random() * ((listeDiffEtTheme.size()-1 ) +1));
+        Question selection = listeDiffEtTheme.get(nbrAle);
+
         return selection;
     }
     public List openfile() throws IOException {
