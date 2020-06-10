@@ -1,6 +1,7 @@
 package Questions;
 import java.io.*;
 import java.util.ArrayList;
+import java.util.Scanner;
 
 public class Themes
 {
@@ -98,6 +99,31 @@ public void SelectionnerTheme() throws IOException, ClassNotFoundException {
     }
 
 }
+    public void SelectionnerThemesNonAlea() throws IOException, ClassNotFoundException {
+
+        if (index == 10)
+        {
+            Afficher();
+            initialisation();
+            index = 0 ;
+            SelectionnerTheme();
+        }
+
+        else{
+
+            ThemeSelectnow.clear();
+            Scanner sc = new Scanner(System.in);
+            System.out.println("Saisir le thème");
+            int  nbrAle = sc.nextInt();
+
+            ThemeSelect.add(liste.get(nbrAle));
+            ThemeSelectnow.add(liste.get(nbrAle));
+            liste.remove((nbrAle));
+            index++;
+        }
+
+    }
+
 // selectionne aléatoirement 5 thèmes différents dans la liste
 
 public void SelectionnerCinqThemes() throws IOException, ClassNotFoundException {
