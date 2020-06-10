@@ -1,11 +1,12 @@
+import java.io.IOException;
 import java.util.Scanner;
 import java.util.Vector;
 
-public class main {
+public class main{
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException, ClassNotFoundException {
 
-        /*int nbrJoueurs;
+        int nbrJoueurs;
         Joueur joueur1;
         Joueur joueur2;
         Joueur joueur3;
@@ -19,8 +20,9 @@ public class main {
             EnsJoueurs nouvellePartie = new EnsJoueurs(nbrJoueurs);
             nouvellePartie.afficher();
             System.out.println("\n");
+            Vector select = new Vector(4);
             while (nbrJoueurs>=4) {
-                Vector select = new Vector(4);
+
 
                 joueur1 = nouvellePartie.selectionnerJoueur();
                 joueur2 = nouvellePartie.selectionnerJoueur();
@@ -37,21 +39,35 @@ public class main {
                 select.addElement(joueur3);
                 select.addElement(joueur4);
 
+
                 nbrJoueurs = nbrJoueurs-4;
-            }
-            if(nbrJoueurs== 3){
 
-            }else if(nbrJoueurs == 2){
+                Phase1 start = new Phase1();
+                Phase2 middle = new Phase2();
+                Phase3 end = new Phase3();
 
-            }else{
-                System.out.println("le dernier joueur pourrat allait se faire voir");
+
+
+               start.phasedeJeu(select);
+
+                Vector joueurPhase2 = start.selectionnerJoueurs(select);
+                /*middle.phasedeJeu(joueurPhase2);
+
+
+                Vector joueurPhase3 = middle.selectionnerJoueurs(joueurPhase2);
+                end.phasedeJeu(joueurPhase3);
+
+                Vector last = end.selectionnerJoueurs(joueurPhase3);
+
+                Joueur gagnant = (Joueur) last.elementAt(0);
+                gagnant.changerEtat("gagnant");
+
+
+
+                 */
+
+
             }
         }
-
-         */
-
     }
-
-
-
 }

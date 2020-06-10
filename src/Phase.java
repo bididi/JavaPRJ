@@ -1,6 +1,7 @@
+import java.io.IOException;
 import java.util.Vector;
 
 public interface Phase {
-    public void selectionnerJoueurs();
-    public void phasedeJeu(Vector select);
+    public Vector selectionnerJoueurs(Vector select);
+    public void phasedeJeu(Vector select) throws IOException, ClassNotFoundException;
 }

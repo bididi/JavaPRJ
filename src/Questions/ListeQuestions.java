@@ -1,6 +1,5 @@
 package Questions;
 
-import com.sun.javaws.exceptions.ExitException;
 
 import java.io.*;
 import java.util.ArrayList;
