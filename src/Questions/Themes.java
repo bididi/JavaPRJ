@@ -104,6 +104,7 @@ public void SelectionnerCinqThemes() throws IOException, ClassNotFoundException 
     for (int i = 0; i<5 ; i++)
     {
 
+
         int nbrAle = (int) (Math.random() * ((liste.size()-1 ) +1));
         ThemeSelect.add(liste.get(nbrAle));
         ThemeSelectnow.add(liste.get(nbrAle));
