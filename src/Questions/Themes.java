@@ -110,12 +110,12 @@ public void SelectionnerTheme() throws IOException, ClassNotFoundException {
         }
 
         else{
-
+            ThemeSelect.clear();
             ThemeSelectnow.clear();
+
             Scanner sc = new Scanner(System.in);
             System.out.println("Saisir le thème");
             int  nbrAle = sc.nextInt();
-
             ThemeSelect.add(liste.get(nbrAle));
             ThemeSelectnow.add(liste.get(nbrAle));
             liste.remove((nbrAle));
@@ -152,7 +152,7 @@ public void Afficher(){
 
     }
     System.out.println("les thèmes déja sélectionés sont" + ThemeSelect);
-    System.out.println("le thèmes choisi au tirage" + ThemeSelectnow);
+    System.out.println("le thèmes choisi est" + ThemeSelectnow);
 }
 
 
