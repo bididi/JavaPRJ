@@ -7,6 +7,7 @@ public class Themes
 
 ArrayList<String>liste;
 ArrayList<String>ThemeSelect = new ArrayList();
+ArrayList<String>ThemeSelectnow = new ArrayList();
 
 public Themes(ArrayList<String>liste)
 {
@@ -32,6 +33,7 @@ public Themes(ArrayList<String>liste)
     public void initialisation() throws IOException, ClassNotFoundException
     {
         this.ThemeSelect.clear();
+        this.ThemeSelectnow.clear();
         this.liste.clear();
 
         liste.add("Géographie");
@@ -70,18 +72,35 @@ public void ModifierTheme(int emplacement, String newTheme) throws IOException
 
     serialiserListe("Themes");
 }
+
+    int index = 0 ;
 // Selectionne aléatoirement un thème dans la liste
-public void SelectionnerTheme(){
+
+public void SelectionnerTheme() throws IOException, ClassNotFoundException {
+
+    if (index == 10)
+    {
+        Afficher();
+        initialisation();
+        index = 0 ;
+        SelectionnerTheme();
+    }
+
+    else{
+
+    ThemeSelectnow.clear();
 
     int nbrAle = (int) (Math.random() * ((liste.size()-1 ) +1));
     ThemeSelect.add(liste.get(nbrAle));
+    ThemeSelectnow.add(liste.get(nbrAle));
     liste.remove((nbrAle));
+    index++;
+    }
 
 }
 // selectionne aléatoirement 5 thèmes différents dans la liste
 
-public void SelectionnerCinqThemes()
-{
+public void SelectionnerCinqThemes() throws IOException, ClassNotFoundException {
     for (int i = 0; i<5 ; i++)
     {
         SelectionnerTheme();
@@ -92,15 +111,16 @@ public void SelectionnerCinqThemes()
 public void Afficher(){
 
     int j=0;
-    int index = 0 ;
+
     while(j<liste.size())
     {
         System.out.println(liste.get(j));
         j++;
-        index ++;
+
 
     }
-    System.out.println("les thèmes sélectionés sont" + ThemeSelect);
+    System.out.println("les thèmes déja sélectionés sont" + ThemeSelect);
+    System.out.println("le thèmes choisi au tirage" + ThemeSelectnow);
 }
 
 
