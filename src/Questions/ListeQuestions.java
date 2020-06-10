@@ -88,7 +88,6 @@ public class ListeQuestions {
         List<Question> listeDiffEtTheme = new ArrayList<>();
         for (int i = 0; i < LQ.size(); i++){
             if (LQ.get(i).difficulté == difficulte) {
-                System.out.println(LQ.get(i));
                 listeDiff.add(LQ.get(i));
             }
         }

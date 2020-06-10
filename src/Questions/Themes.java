@@ -34,16 +34,16 @@ public class Themes {
         this.ThemeSelectnow.clear();
         this.liste.clear();
 
-        liste.add("Géographie");
+        liste.add("Geographie");
         liste.add("Science");
         liste.add("Sport");
         liste.add("Art");
-        liste.add("Cinema");
-        liste.add("Histoire");
-        liste.add("Langues");
-        liste.add("Les reptiles");
-        liste.add("Vaccins");
-        liste.add("Informatiques");
+        liste.add("CINEMA");
+        liste.add("HISTOIRE");
+        liste.add("LANGUE");
+        liste.add("LES REPTILES");
+        liste.add("LES VACCINS");
+        liste.add("INFORMATIQUE");
 
         serialiserListe("Themes");
     }

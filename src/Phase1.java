@@ -45,7 +45,7 @@ public class Phase1 implements Phase {
         // On retire le joueur éliminé de notre vecteur select.
         select.remove(elimine);
 
-        System.out.println("\nLe joueur "+ elimine.getpseudo()+"a été eliminé");
+        System.out.println("\nLe joueur "+ elimine.getpseudo()+" a été eliminé");
 
         // On retourne notre nouveau vecteur
         return select;
