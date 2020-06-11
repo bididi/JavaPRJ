@@ -1,3 +1,13 @@
+/**
+ *-----Headers-----
+ *Projet java-L3
+ *
+ *GABROT Jules
+ *GUEURET Elodie
+ *EXCOFFIER Serge
+ *GONNOT Vianney
+ *GAILHAC Louis
+ */
 package Interface;
 
 public class FenetreJeux extends javax.swing.JFrame {

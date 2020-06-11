@@ -1,7 +1,16 @@
 package Joueurs;
 
 import java.util.Scanner;
-
+/**
+ *-----Headers-----
+ *Projet java-L3
+ *
+ *GABROT Jules
+ *GUEURET Elodie
+ *EXCOFFIER Serge
+ *GONNOT Vianney
+ *GAILHAC Louis
+ */
 public class Joueur {
     private int numJoueur;
     private String pseudo;

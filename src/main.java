@@ -1,3 +1,13 @@
+/**
+ *-----Headers-----
+ *Projet java-L3
+ *
+ *GABROT Jules
+ *GUEURET Elodie
+ *EXCOFFIER Serge
+ *GONNOT Vianney
+ *GAILHAC Louis
+ */
 import java.io.IOException;
 import java.util.Scanner;
 import java.util.Vector;
