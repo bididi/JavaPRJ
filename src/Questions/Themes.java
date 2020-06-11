@@ -105,7 +105,7 @@ public String SelectionnerTheme() throws IOException, ClassNotFoundException {
 
 }
 
-// selectionne aléatoirement 5 thèmes différents dans la liste
+// selectionne aléatoirement 6 thèmes différents dans la liste
 
 public ArrayList<String> SelectionnerCinqThemes() throws IOException, ClassNotFoundException {
 

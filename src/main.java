@@ -5,15 +5,20 @@ import java.util.Vector;
 public class main{
 
     public static void main(String[] args) throws IOException, ClassNotFoundException {
-
+        // initialistion d'une variable qui contiendra le nombre de joueurs
         int nbrJoueurs;
+
+        // Création de 4 variables joueurs
         Joueur joueur1;
         Joueur joueur2;
         Joueur joueur3;
         Joueur joueur4;
+
+        // Création d'un scanner pour récupérer le nombre de joueur voulu par l'utilisateur
         Scanner scan = new Scanner(System.in);
         System.out.println("Combien de joueur êtes-vous ?");
         nbrJoueurs = scan.nextInt();
+
         if(nbrJoueurs <4){
             System.out.println("il faut au moins 4 joueurs");
         }else {
@@ -51,7 +56,7 @@ public class main{
                start.phasedeJeu(select);
 
                 Vector joueurPhase2 = start.selectionnerJoueurs(select);
-                /*middle.phasedeJeu(joueurPhase2);
+                middle.phasedeJeu(joueurPhase2);
 
 
                 Vector joueurPhase3 = middle.selectionnerJoueurs(joueurPhase2);
@@ -62,10 +67,7 @@ public class main{
                 Joueur gagnant = (Joueur) last.elementAt(0);
                 gagnant.changerEtat("gagnant");
 
-
-
-                 */
-
+                nouvellePartie.afficher();
 
             }
         }

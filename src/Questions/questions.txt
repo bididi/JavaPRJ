@@ -151,7 +151,7 @@
 2;Sport;RC;Dans les epreuves du decathlon, figure-t-il le saut en hauteur ?;Oui;;;
 2;Sport;RC;Combien y a-t-il de joueurs dans une equipe de basketball ?;5;;;
 3;Sport;RC;Quel est le surnom de l equipe de football d Allemagne ?;Die Nationalmannschaf;;;
-3;Sport;RC;Quel est le nom de l anc�tre du badminton ?;Le poona;;;
+3;Sport;RC;Quel est le nom de l ancetre du badminton ?;Le poona;;;
 3;Sport;RC;"Depuis quelle annee est-ce que le ""patin clap"" est-il utilise en competition de patinage de vitesse ?";1996;;;
 3;Sport;RC;De quelle origine est la lutte sumo ?;Japonaise;;;
 2;Art;RC;Qui a peint la Nuit Etoilee ?;Vincent van Gogh;;;
@@ -167,7 +167,7 @@
 2;Art;RC;La Cene;Leonard de Vinci;;;
 2;Art;RC;Le Printemps;Sandro Botticelli;;;
 1;CINEMA;RC;Qui a invente le cinema ?;Les freres Lumiere;;;
-2;CINEMA;RC;O� habite Amelie Poulain ?;Paris;;;
+2;CINEMA;RC;Ou habite Amelie Poulain ?;Paris;;;
 3;CINEMA;RC;La Belle Equipe et Panique sont des films de :;Julien Duvivier;;;
 1;CINEMA;RC;En France, un film peut recevoir un :;Cesar;;;
 2;CINEMA;RC;Dans quel film Arletty interprete-t-elle Garance ?;Les Enfants du paradis;;;
@@ -178,7 +178,7 @@
 3;CINEMA;RC;Qui a realise le film La Dolce Vita ?;Federico Fellini;;;
 2;CINEMA;RC;Combien de films compte la saga de la Guerre des etoiles ?;6;;;
 2;CINEMA;RC;Dans Casablanca, Humphrey Bogart a pour partenaire :;Ingrid Bergman;;;
-2;HISTOIRE;RC;En 1 500 av. J.-C., la conqu�te du territoire fran�ais commence avec :;Les Celtes;;;
+2;HISTOIRE;RC;En 1 500 av. J.-C., la conquete du territoire francais commence avec :;Les Celtes;;;
 1;HISTOIRE;RC;Vercingetorix est vaincu a Alesia en 52 av. J.-C. par :;Jules Cesar;;;
 3;HISTOIRE;RC;Clovis Ier est le fondateur de la dynastie :;Merovingienne;;;
 2;HISTOIRE;RC;Quel surnom donnait-on aux rois merovingiens a cause d�une particularite capillaire ?;Les Chevelus;;;
@@ -189,12 +189,12 @@
 3;HISTOIRE;RC;Au Ve siecle, la Gaule est ravagee par les Huns. Son chef redoute, dont on dit que l�herbe ne repousse pas derriere son passage, est;Attila;;;
 1;HISTOIRE;RC;Le premier roi des Francs fut;Clovis;;;
 2;HISTOIRE;RC;Meprises par les historiens, les derniers rois merovingiens etaient surnommes les rois :;Les Faineants;;;
-1;HISTOIRE;RC;En 1347-1348, quel fleau devaste l�Europe ?;La peste noire;;;
+1;HISTOIRE;RC;En 1347-1348, quel fleau devaste l Europe ?;La peste noire;;;
 2;LANGUE;RC;Quel verbe correspond a la definition suivante : �appara�tre a la surface de l�eau ou du sol� ?;Affleurer;;;
 3;LANGUE;RC;Celui qui est �trop long, bavard dans son discours� est :�;Prolixe;;;
 3;LANGUE;RC;Un homme �dans un etat de decheance physique du fait de l��ge� est :;Decrepit;;;
 3;LANGUE;RC;�Propos qui consistent a discrediter quelqu�un en rapportant des informations que l�on croit fondees.� Autrement dit :�;La medisance;;;
-3;LANGUE;RC;Lorsqu�on repare une montre, on dit generalement qu�on la :;Rhabille;;;
+3;LANGUE;RC;Lorsqu on repare une montre, on dit generalement qu�on la :;Rhabille;;;
 2;LANGUE;RC;La �bauge� correspond au nom du lieu o� se retire :;Le sanglier;;;
 1;LANGUE;RC;Le mot � omoplate � est-il masculin ?;Non;;;
 1;LANGUE;RC;Le mot � hormis � est-il bien orthographie ?;Oui;;;
@@ -225,7 +225,7 @@
 3;LES VACCINS;RC;En 1991, le ministre de la Sante italien,�Francesco de Lorenzo, a touche une forte somme d un laboratoire pour rendre un vaccin obligatoire. Lequel ?;Engerix B;;;
 1;LES VACCINS;RC;Est-il possible de faire plusieurs vaccins en m�me temps ?;Oui;;;
 1;LES VACCINS;RC;Est-ce que la vaccination c est aussi pour les adultes ?;Oui;;;
-;LES VACCINS;RC;Existe-t-il un vaccin contre Ebola;Oui;;;
+2;LES VACCINS;RC;Existe-t-il un vaccin contre Ebola;Oui;;;
 2;INFORMATIQUE;RC;Quel est le langage informatique le plus courant utilise pour ecrire les pages web ?;HTML;;;
 2;INFORMATIQUE;RC;a quoi est egal 1 octet ?;A 8 bits;;;
 3;INFORMATIQUE;RC;Comment s�appelle la technique utilisee par les fraudeurs qui consiste a derober vos informations personnelles (n� de carte de credit, mots de passe, etc.) en se faisant passer pour votre banque via un courrier electronique ou un site web falsifie ?;Le phishing;;;
