@@ -2,6 +2,9 @@ import java.io.IOException;
 import java.util.Scanner;
 import java.util.Vector;
 
+import Joueurs.*;
+import Phases.*;
+
 public class main{
 
     public static void main(String[] args) throws IOException, ClassNotFoundException {
@@ -16,17 +19,24 @@ public class main{
 
         // Création d'un scanner pour récupérer le nombre de joueur voulu par l'utilisateur
         Scanner scan = new Scanner(System.in);
-        System.out.println("Combien de joueur êtes-vous ?");
+
+        System.out.println("\n########## Jeu de questions / réponses ###########");
+        System.out.println("\nCombien de joueur êtes-vous ?");
         nbrJoueurs = scan.nextInt();
 
-        if(nbrJoueurs <4){
-            System.out.println("il faut au moins 4 joueurs");
-        }else {
-            EnsJoueurs nouvellePartie = new EnsJoueurs(nbrJoueurs);
-            nouvellePartie.afficher();
-            System.out.println("\n");
-            Vector select = new Vector(4);
+        while (nbrJoueurs != 4 && nbrJoueurs != 8 && nbrJoueurs != 12 && nbrJoueurs !=16 && nbrJoueurs != 20){
+
+            System.out.println("il faut un nombre de joueurs qui est un multiple de 4 !");
+            System.out.println("\nCombien de joueur êtes-vous ?");
+            nbrJoueurs = scan.nextInt();
+        }
+        EnsJoueurs nouvellePartie = new EnsJoueurs(nbrJoueurs);
+        Vector select = new Vector(4);
             while (nbrJoueurs>=4) {
+                System.out.println("~~~~~~~~~~~~~~ Voici les différents joueurs ~~~~~~~~~~~~~~");
+                nouvellePartie.afficher();
+                System.out.println("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
+                System.out.println("\n");
 
 
                 joueur1 = nouvellePartie.selectionnerJoueur();
@@ -34,10 +44,13 @@ public class main{
                 joueur3 = nouvellePartie.selectionnerJoueur();
                 joueur4 = nouvellePartie.selectionnerJoueur();
 
+                System.out.println("**************** Les joueurs sélectionnés *****************");
                 joueur1.afficher();
                 joueur2.afficher();
                 joueur3.afficher();
                 joueur4.afficher();
+
+                System.out.println("***********************************************************");
 
                 select.addElement(joueur1);
                 select.addElement(joueur2);
@@ -64,12 +77,6 @@ public class main{
 
                 Vector last = end.selectionnerJoueurs(joueurPhase3);
 
-                Joueur gagnant = (Joueur) last.elementAt(0);
-                gagnant.changerEtat("gagnant");
-
-                nouvellePartie.afficher();
-
-            }
         }
     }
 }

@@ -1,15 +1,54 @@
 package Phases;
 
+import Joueurs.Joueur;
+import Questions.ListeQuestions;
+import Questions.Question;
+import Questions.Themes;
+
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Vector;
 
-import Joueurs.Joueur;
-import Phases.Phase;
-import Questions.*;
-
 public class Phase1 implements Phase {
+    // Création du chronomètre du joueur 1
+    private long chr1 = 0;
+    javax.swing.Timer temps = new javax.swing.Timer(1, new ActionListener() {
+        @Override
+        public void actionPerformed(ActionEvent actionEvent) {
+            chr1++;
+        }
+    });
+
+    //Création du chronomètre du joueur 2
+    private long chr2 = 0;
+    javax.swing.Timer chronoJ2 = new javax.swing.Timer(1, new ActionListener() {
+        @Override
+        public void actionPerformed(ActionEvent actionEvent) {
+            chr2++;
+        }
+    });
+
+    //Création du chronomètre du joueur 3
+    private long chr3 = 0;
+    javax.swing.Timer chronoJ3 = new javax.swing.Timer(1, new ActionListener() {
+        @Override
+        public void actionPerformed(ActionEvent actionEvent) {
+            chr3++;
+        }
+    });
+
+    //Création du chronomètre du joueur 4
+    private long chr4 = 0;
+    javax.swing.Timer chronoJ4 = new javax.swing.Timer(1, new ActionListener() {
+        @Override
+        public void actionPerformed(ActionEvent actionEvent) {
+            chr4++;
+        }
+    });
+
     @Override
     public Vector selectionnerJoueurs(Vector select) {
         // On crée des variables pour les différents joueur du vecteur select
@@ -29,19 +68,48 @@ public class Phase1 implements Phase {
 
         // initialisation d'une variable qui contiendra le plus petit score
         int petit = sc1;
+        long chronoPetit = chr1;
 
         // On compare tous les score pour trouver le plus faible
-        if (sc2 < petit){
-            petit = sc2;
-            elimine = joueur2;
+        // En cas d'égalité le temps vas les départager
+        if (sc2 <= petit){
+            if(sc2 == petit){
+                if(chr2>chronoPetit){
+                    petit = sc2;
+                    chronoPetit = chr2;
+                    elimine = joueur2;
+                }
+            }else {
+                petit = sc2;
+                elimine = joueur2;
+                chronoPetit = sc2;
+            }
         }
-        if (sc3 < petit){
-            petit = sc3;
-            elimine = joueur3;
+        if (sc3 <= petit){
+            if (sc3 == petit){
+                if (chr3> chronoPetit){
+                    petit = sc3;
+                    chronoPetit = chr3;
+                    elimine = joueur3;
+                }
+            }else {
+                petit = sc3;
+                elimine = joueur3;
+                chronoPetit = chr3;
+            }
         }
-        if (sc4 < petit){
-            petit = sc4;
-            elimine = joueur4;
+        if (sc4 <= petit){
+            if(sc4 == petit){
+                if (chr4 > chronoPetit){
+                    petit = sc4;
+                    elimine = joueur4;
+                    chronoPetit = chr4;
+                }
+            }else {
+                petit = sc4;
+                elimine = joueur4;
+                chronoPetit = chr4;
+            }
         }
 
         // On change l'état du joueur ayant le score le plus faible
@@ -81,30 +149,40 @@ public class Phase1 implements Phase {
         String theme = test.SelectionnerTheme();
         Question j1 = Liste.selectionnerQuestion(LQ,1,theme);
         j1.Afficher();
+        temps.start();
+
         boolean reponse = j1.Saisir();
         if(reponse){
             joueur1.mAJScore(2);
         }
+        temps.stop();
+
 
         System.out.println("\n C'est au tour de : ");
         joueur2.afficher();
         String theme2 = test.SelectionnerTheme();
         Question j2 = Liste.selectionnerQuestion(LQ,1,theme2);
         j2.Afficher();
+        chronoJ2.start();
         boolean reponse2 = j2.Saisir();
         if(reponse2){
             joueur2.mAJScore(2);
         }
+        chronoJ2.stop();
+
 
         System.out.println("\n C'est au tour de : ");
         joueur3.afficher();
         String theme3 = test.SelectionnerTheme();
         Question j3 = Liste.selectionnerQuestion(LQ,1,theme3);
         j3.Afficher();
+        chronoJ3.start();
         boolean reponse3 = j3.Saisir();
         if(reponse3){
             joueur3.mAJScore(2);
         }
+        chronoJ3.stop();
+
 
 
         System.out.println("\n C'est au tour de : ");
@@ -112,10 +190,13 @@ public class Phase1 implements Phase {
         String theme4 = test.SelectionnerTheme();
         Question j4 = Liste.selectionnerQuestion(LQ,1,theme4);
         j4.Afficher();
+        chronoJ4.start();
         boolean reponse4 = j4.Saisir();
         if(reponse4){
             joueur4.mAJScore(2);
         }
+        chronoJ4.stop();
+
 
     }
 }

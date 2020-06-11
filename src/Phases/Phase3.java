@@ -4,31 +4,66 @@ import Joueurs.Joueur;
 import Phases.Phase;
 import Questions.*;
 
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Vector;
 
 public class Phase3 implements Phase {
+    // Création du chronomètre du joueur 1
+    private long chr1 = 0;
+    javax.swing.Timer temps = new javax.swing.Timer(1, new ActionListener() {
+        @Override
+        public void actionPerformed(ActionEvent actionEvent) {
+            chr1++;
+        }
+    });
+
+    //Création du chronomètre du joueur 2
+    private long chr2 = 0;
+    javax.swing.Timer chronoJ2 = new javax.swing.Timer(1, new ActionListener() {
+        @Override
+        public void actionPerformed(ActionEvent actionEvent) {
+            chr2++;
+        }
+    });
+
     @Override
     public Vector selectionnerJoueurs(Vector select) {
         Joueur joueur1 = (Joueur) select.elementAt(0);
         Joueur joueur2 = (Joueur) select.elementAt(1);
 
         Joueur elimine = joueur1;
+        Joueur gagnant = joueur2;
 
         int sc1 = joueur1.getScore();
         int sc2 = joueur2.getScore();
 
         int petit = sc1;
+        long chronoPetit = chr1;
 
-        if (sc2 < petit){
-            petit = sc2;
-            elimine = joueur2;
+        // On compare tous les score pour trouver le plus faible
+        // En cas d'égalité le temps vas les départager
+        if (sc2 <= petit){
+            if(sc2 == petit){
+                if(chr2>chronoPetit){
+                    petit = sc2;
+                    chronoPetit = chr2;
+                    elimine = joueur2;
+                }
+            }else {
+                petit = sc2;
+                elimine = joueur2;
+                chronoPetit = sc2;
+            }
         }
 
         // On change l'état du joueur ayant le score le plus faible
         elimine.changerEtat("éliminé");
+
+        gagnant.changerEtat("gagnant");
 
         select.remove(elimine);
 
@@ -67,19 +102,23 @@ public class Phase3 implements Phase {
         joueur1.afficher();
         Question j1 = Liste.selectionnerQuestion(LQ,1,theme);
         j1.Afficher();
+        temps.start();
         boolean reponse = j1.Saisir();
         if(reponse){
             joueur1.mAJScore(5);
         }
+        temps.stop();
 
         System.out.println("\n C'est au tour du : ");
         joueur2.afficher();
         Question j2 = Liste.selectionnerQuestion(LQ,1,theme);
         j2.Afficher();
+        chronoJ2.start();
         boolean reponse2 = j2.Saisir();
         if(reponse2){
             joueur2.mAJScore(5);
         }
+        chronoJ2.stop();
 
         themeFinal.remove(random);
 
@@ -90,19 +129,23 @@ public class Phase3 implements Phase {
         joueur1.afficher();
         Question j12 = Liste.selectionnerQuestion(LQ,1,theme);
         j12.Afficher();
+        temps.start();
         boolean reponse12 = j12.Saisir();
         if(reponse12){
             joueur1.mAJScore(5);
         }
+        temps.stop();
 
         System.out.println("\n C'est au tour du : ");
         joueur2.afficher();
         Question j22 = Liste.selectionnerQuestion(LQ,1,theme);
         j22.Afficher();
+        chronoJ2.start();
         boolean reponse22 = j22.Saisir();
         if(reponse22){
             joueur2.mAJScore(5);
         }
+        chronoJ2.stop();
 
         themeFinal.remove(random);
 
@@ -113,19 +156,23 @@ public class Phase3 implements Phase {
         joueur1.afficher();
         Question j13 = Liste.selectionnerQuestion(LQ,1,theme);
         j13.Afficher();
+        temps.start();
         boolean reponse13 = j13.Saisir();
         if(reponse13){
             joueur1.mAJScore(5);
         }
+        temps.stop();
 
         System.out.println("\n C'est au tour du : ");
         joueur2.afficher();
         Question j23 = Liste.selectionnerQuestion(LQ,1,theme);
         j23.Afficher();
+        chronoJ2.start();
         boolean reponse23 = j23.Saisir();
         if(reponse23){
             joueur2.mAJScore(5);
         }
+        chronoJ2.stop();
 
         System.out.println("La phase 3 est terminé !");
 
