@@ -1,4 +1,4 @@
-3;Geographie;VF;Pour eviter leur destruction, les monuments de Nubie d�Abou Simbel ont ete entierement deplaces.;true;;;
+3;Geographie;VF;Pour eviter leur destruction, les monuments de Nubie d Abou Simbel ont ete entierement deplaces.;true;;;
 3;Geographie;VF;La stavkirke de Borgund, en Norvege, a ete construite vers l annee 1600.;false;;;
 3;Geographie;VF;Plus de cinq millions de clous ont ete necessaires a la construction du pogost de Kiji.;false;;;
 3;Geographie;VF;Louis II de Baviere a fait dynamiter un pan de montagne pour construire son chateau sur un eperon rocheux de 200 metres.;true;;;
@@ -12,16 +12,16 @@
 1;Geographie;VF;Paris doit son surnom de Ville Lumiere principalement parce qu elle a abrite plusieurs philosophes du siecle des Lumieres.;false;;;
 3;Science;VF;Toutes les bacteries dans notre corps mises ensemble pesent environ 0,45 kg (1 lb).;false;;;
 1;Science;VF;En 1932, Charles Richter parvient a forer presque jusqu au centre de la Terre pour analyser les mouvements sismiques sur notre planete.;false;;;
-3;Science;VF;Les decouvertes de Marie et Pierre Curie ont remis en cause l hypothese selon laquelle le nombre d�atomes sur Terre etait�fixe.;true;;;
+3;Science;VF;Les decouvertes de Marie et Pierre Curie ont remis en cause l hypothese selon laquelle le nombre d atomes sur Terre etait fixe.;true;;;
 3;Science;VF;Alfred Nobel, le createur des prix Nobel, dont celui de la Paix, a aussi invente la dynamite.;true;;;
-1;Science;VF;C�est en observant les pinsons des  les Galapagos que Darwin a elabore sa theorie de l�evolution.;true;;;
-1;Science;VF;Sir Alexander Fleming a decouvert par hasard la penicilline, qui a depuis sauve des millions de�vies.;true;;;
+1;Science;VF;C est en observant les pinsons des  les Galapagos que Darwin a elabore sa theorie de l evolution.;true;;;
+1;Science;VF;Sir Alexander Fleming a decouvert par hasard la penicilline, qui a depuis sauve des millions de vies.;true;;;
 3;Science;VF;Le medecin grec Hippocrate (v. 460-370 av. J.-C.) a decouvert les fondements du systeme sanguin.;false;;;
 2;Science;VF;Edwin Hubble a decouvert Neptune grace au premier telescope infrarouge.;false;;;
 2;Science;VF;Pour ses travaux, Albert Einstein a gagne le prix Nobel de mathematiques.;false;;;
 2;Science;VF;Eureka est le nom d un des plus grands mathematiciens de l Antiquite grecque.;false;;;
 2;Science;VF;Louis Pasteur a cree le premier vaccin.;false;;;
-1;Science;VF;En 1783, les freres Montgolfier parviennent a faire s envoler un coq, un mouton et un�canard.;true;;;
+1;Science;VF;En 1783, les freres Montgolfier parviennent a faire s envoler un coq, un mouton et un canard.;true;;;
 2;Sport;VF;Brett Favre detient le record du plus grand nombre de passes completees par un joueur de la LNF.;false;;;
 3;Sport;VF;Tom Brady detient la plus haute cote de passeur de toute l histoire de la LNF.;false;;;
 2;Sport;VF;Le plus long match de l histoire du tennis a dure huit heures et 52 minutes. ;false;;;
@@ -309,13 +309,13 @@
 2;HISTOIRE;QCM;Le proces de Nuremberg a eu lieu en :;1945;1946;1947;1948
 3;HISTOIRE;QCM;Lequel de ces hommes politiques n a pas ete President de la Republique ?;Georges Clemenceau.;Mac-Mahon.;Felix Faure.;Raymond Poincare.
 3;HISTOIRE;QCM;Le conflit des Malouines a oppose :;Le Royaume-Uni a l Argentine.;Le Royaume-Uni au Perou.;Le Portugal a l Argentine.;Le Royaume-Uni au Chili.
-2;HISTOIRE;QCM;Valery Giscard dEstaing a ete elu president de la Republique fran�aise en :;1974;1978;1982;1986
+2;HISTOIRE;QCM;Valery Giscard dEstaing a ete elu president de la Republique francaise en :;1974;1978;1982;1986
 3;LANGUE;QCM;On ecrit... ?;Sibyllin;Sybillin;Les deux;JSP
 3;LANGUE;QCM;Le verbe venir, au subjonctif, fait... ?;Que je vinse;Que je vinsse;Les deux;Bonne question
 2;LANGUE;QCM;On dit... ?;Suzanne ne souhaite pas que la police s interesse de trop pres a son passe;Suzanne ne souhaite pas que la police ne s interesse de trop pres a son passe;Suzanne ne souhaite po que la police ne s interesse de trop pres a son passe;Suzanne ne souhaite pas que la police ne s interesse de trop pre a so pase
 2;LANGUE;QCM;Au conditionnel, le verbe prier fait... ?;Nous prierions;Nous pririons;Nous pririon;Nous prirrions
 3;LANGUE;QCM;Comment nomme-t-on les habitants de Nuits-Saint-Georges  ?;Les Nuitons;Les Georgeois;Les Nuits-Saint-Georgiens;Les joureux
-3;LANGUE;QCM;Quel est le verbe mouvoir au passe simple ?;Je mus, tu mus ;Je mus, tu mus ;Je mous, tu mous..;Je sais pas, tu sais pas�
+3;LANGUE;QCM;Quel est le verbe mouvoir au passe simple ?;Je mus, tu mus ;Je mus, tu mus ;Je mous, tu mous..;Je sais pas, tu sais pas
 1;LANGUE;QCM;Un billion, en France, c est... ?;Un million de millions;Cent millions;Mille millions;Un milliard
 1;LANGUE;QCM;Anagramme est du genre... ?;Feminin;Masculin;Les deux;Non binaire
 2;LANGUE;QCM;Comment accorde-t-on ?;Cette affaire etait plus serieuse que nous ne l avions cru;Cette affaire etait plus serieuse que nous ne l avions crue;Indifferemment;Je sais pas
