@@ -75,8 +75,13 @@ public class main{
                 Vector joueurPhase3 = middle.selectionnerJoueurs(joueurPhase2);
                 end.phasedeJeu(joueurPhase3);
 
-                Vector last = end.selectionnerJoueurs(joueurPhase3);
+                end.selectionnerJoueurs(joueurPhase3);
 
         }
+
+            System.out.println(" La partie est fini ");
+        System.out.println("~~~~~~~~~~~~~~ Voici les différents joueurs ~~~~~~~~~~~~~~");
+            nouvellePartie.afficher();
+        System.out.println("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
     }
 }
