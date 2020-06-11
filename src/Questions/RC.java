@@ -28,7 +28,7 @@ public class RC extends Question {
 
     public boolean  Saisir(){
         Scanner keyboard = new Scanner(System.in);
-        System.out.println("Veuillez entrer la réponse :");
+        System.out.println("Veuillez entrer la réponse (Oublier pas de mettre des majuscles):");
         String saisie = keyboard.nextLine();
 
         if (saisie.equals(this.bonneRep)) return true;
