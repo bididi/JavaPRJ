@@ -1,3 +1,5 @@
+package Joueurs;
+
 import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.Vector;
@@ -70,7 +72,7 @@ public class EnsJoueurs {
            }
         }
 
-        // Sélection d'un premier Joueur//
+        // Sélection d'un premier Joueurs.Joueur//
 
         //On prendre un nombre au hasard entre 0 et la taille de notre liste index
         int random = (int)(Math.random() * ((index.size()-1) + 1));

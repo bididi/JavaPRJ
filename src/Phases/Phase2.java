@@ -1,3 +1,7 @@
+package Phases;
+
+import Joueurs.Joueur;
+import Phases.Phase;
 import Questions.*;
 
 

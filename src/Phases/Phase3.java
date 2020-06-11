@@ -1,12 +1,15 @@
+package Phases;
+
+import Joueurs.Joueur;
+import Phases.Phase;
 import Questions.*;
 
 import java.io.IOException;
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Vector;
 
-public class Phase3 implements Phase{
+public class Phase3 implements Phase {
     @Override
     public Vector selectionnerJoueurs(Vector select) {
         Joueur joueur1 = (Joueur) select.elementAt(0);

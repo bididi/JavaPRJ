@@ -104,13 +104,13 @@ public class FenetreJeux extends javax.swing.JFrame {
 
         jLabel1.setFont(new java.awt.Font("Corbel", 0, 36)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel1.setText("Phase X");
+        jLabel1.setText("Phases.Phase X");
         // TODO changer X par le numeros de la phase
 
         jPanel8.setBackground(new java.awt.Color(204, 204, 204));
 
         jLabel14.setFont(new java.awt.Font("Corbel", 0, 18)); // NOI18N
-        jLabel14.setText("Joueur");
+        jLabel14.setText("Joueurs.Joueur");
 
         jLabel15.setFont(new java.awt.Font("Corbel", 0, 18)); // NOI18N
         jLabel15.setText("Score");

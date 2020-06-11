@@ -1,7 +1,12 @@
+package Phases;
+
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Vector;
+
+import Joueurs.Joueur;
+import Phases.Phase;
 import Questions.*;
 
 public class Phase1 implements Phase {
