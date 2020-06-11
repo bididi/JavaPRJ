@@ -75,6 +75,7 @@ public class Phase1 implements Phase {
         List<Question> LQ = Liste.openfile();// on peut aussi faire LQ =Liste.liste;
 
 
+        //
         System.out.println("\n C'est au tour de : ");
         joueur1.afficher();
         String theme = test.SelectionnerTheme();

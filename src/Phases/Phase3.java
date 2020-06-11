@@ -69,7 +69,7 @@ public class Phase3 implements Phase {
         j1.Afficher();
         boolean reponse = j1.Saisir();
         if(reponse){
-            joueur1.mAJScore(2);
+            joueur1.mAJScore(5);
         }
 
         System.out.println("\n C'est au tour du : ");
@@ -78,7 +78,7 @@ public class Phase3 implements Phase {
         j2.Afficher();
         boolean reponse2 = j2.Saisir();
         if(reponse2){
-            joueur2.mAJScore(2);
+            joueur2.mAJScore(5);
         }
 
         themeFinal.remove(random);
@@ -92,7 +92,7 @@ public class Phase3 implements Phase {
         j12.Afficher();
         boolean reponse12 = j12.Saisir();
         if(reponse12){
-            joueur1.mAJScore(2);
+            joueur1.mAJScore(5);
         }
 
         System.out.println("\n C'est au tour du : ");
@@ -101,7 +101,7 @@ public class Phase3 implements Phase {
         j22.Afficher();
         boolean reponse22 = j22.Saisir();
         if(reponse22){
-            joueur2.mAJScore(2);
+            joueur2.mAJScore(5);
         }
 
         themeFinal.remove(random);
@@ -115,7 +115,7 @@ public class Phase3 implements Phase {
         j13.Afficher();
         boolean reponse13 = j13.Saisir();
         if(reponse13){
-            joueur1.mAJScore(2);
+            joueur1.mAJScore(5);
         }
 
         System.out.println("\n C'est au tour du : ");
@@ -124,7 +124,7 @@ public class Phase3 implements Phase {
         j23.Afficher();
         boolean reponse23 = j23.Saisir();
         if(reponse23){
-            joueur2.mAJScore(2);
+            joueur2.mAJScore(5);
         }
 
         System.out.println("La phase 3 est terminé !");

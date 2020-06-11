@@ -1,9 +1,3 @@
-import Joueurs.EnsJoueurs;
-import Joueurs.Joueur;
-import Phases.Phase1;
-import Phases.Phase2;
-import Phases.Phase3;
-
 import java.io.IOException;
 import java.util.Scanner;
 import java.util.Vector;

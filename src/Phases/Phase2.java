@@ -88,7 +88,7 @@ public class Phase2 implements Phase {
         j1.Afficher();
         boolean reponse1 = j1.Saisir();
         if(reponse1){
-            joueur1.mAJScore(2);
+            joueur1.mAJScore(3);
         }
         liste6Themes.remove(themeselect-1);
 
@@ -113,7 +113,7 @@ public class Phase2 implements Phase {
         j2.Afficher();
         boolean reponse2 = j2.Saisir();
         if(reponse2){
-            joueur2.mAJScore(2);
+            joueur2.mAJScore(3);
         }
         liste6Themes.remove(themeselect-1);
 
@@ -138,7 +138,7 @@ public class Phase2 implements Phase {
         j3.Afficher();
         boolean reponse3 = j3.Saisir();
         if(reponse3){
-            joueur3.mAJScore(2);
+            joueur3.mAJScore(3);
         }
         liste6Themes.remove(themeselect-1);
 
@@ -163,7 +163,7 @@ public class Phase2 implements Phase {
         j12.Afficher();
         boolean reponse12 = j12.Saisir();
         if(reponse12){
-            joueur1.mAJScore(2);
+            joueur1.mAJScore(3);
         }
         liste6Themes.remove(themeselect-1);
 
@@ -187,7 +187,7 @@ public class Phase2 implements Phase {
         j22.Afficher();
         boolean reponse22 = j22.Saisir();
         if(reponse22){
-            joueur2.mAJScore(2);
+            joueur2.mAJScore(3);
         }
         liste6Themes.remove(themeselect-1);
 
@@ -212,7 +212,7 @@ public class Phase2 implements Phase {
         j32.Afficher();
         boolean reponse32 = j32.Saisir();
         if(reponse32){
-            joueur3.mAJScore(2);
+            joueur3.mAJScore(3);
         }
         liste6Themes.remove(themeselect-1);
 
