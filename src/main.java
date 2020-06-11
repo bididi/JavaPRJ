@@ -10,14 +10,14 @@ public class main{
 
     public static void main(String[] args) throws IOException, ClassNotFoundException {
 
-        /*
+
         //Interface graphique
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
                 new FenetreIndex().setVisible(true);
             }
         });
-        */
+
 
 
         // initialistion d'une variable qui contiendra le nombre de joueurs

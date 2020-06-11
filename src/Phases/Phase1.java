@@ -134,10 +134,15 @@ public class Phase1 implements Phase {
 
     @Override
     public void phasedeJeu(Vector select) throws IOException, ClassNotFoundException {
+        System.out.println("\n");
 
-        System.out.println("------------------------------------------------------");
-        System.out.println("--                    Phase 1                       --");
-        System.out.println("------------------------------------------------------");
+        System.out.println("██████╗ ██╗  ██╗ █████╗ ███████╗███████╗     ██╗\n" +
+                "██╔══██╗██║  ██║██╔══██╗██╔════╝██╔════╝    ███║\n" +
+                "██████╔╝███████║███████║███████╗█████╗      ╚██║\n" +
+                "██╔═══╝ ██╔══██║██╔══██║╚════██║██╔══╝       ██║\n" +
+                "██║     ██║  ██║██║  ██║███████║███████╗     ██║\n" +
+                "╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝     ╚═╝\n" +
+                "                                                ");
 
         Joueur joueur1 = (Joueur) select.elementAt(0);
         Joueur joueur2 = (Joueur) select.elementAt(1);
