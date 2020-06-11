@@ -164,8 +164,8 @@
 3;Art;RC;Qui a peint Le Baiser;Gustav Klimt;;;
 3;Art;RC;Qui a peint Les epoux Arnolfini;Jan van Eyck;;;
 1;Art;RC;Qui a peint Le fils de l homme;Rene Magritte;;;
-2;Art;RC;La Cene;Leonard de Vinci;;;
-2;Art;RC;Le Printemps;Sandro Botticelli;;;
+2;Art;RC;Qui a peintLa Cene;Leonard de Vinci;;;
+2;Art;RC;Qui a peintlLe Printemps;Sandro Botticelli;;;
 1;CINEMA;RC;Qui a invente le cinema ?;Les freres Lumiere;;;
 2;CINEMA;RC;Ou habite Amelie Poulain ?;Paris;;;
 3;CINEMA;RC;La Belle Equipe et Panique sont des films de :;Julien Duvivier;;;
