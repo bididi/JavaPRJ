@@ -110,6 +110,9 @@ public class Phase2 implements Phase {
     @Override
     public void phasedeJeu(Vector select) throws IOException, ClassNotFoundException {
         // Création des différents joueurs présents dans notre vecteur select
+        System.out.println("------------------------------------------------------");
+        System.out.println("--                    Phase 2                       --");
+        System.out.println("------------------------------------------------------");
         Joueur joueur1 = (Joueur) select.elementAt(0);
         Joueur joueur2 = (Joueur) select.elementAt(1);
         Joueur joueur3 = (Joueur) select.elementAt(2);
