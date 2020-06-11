@@ -52,11 +52,13 @@ public class Phase3 implements Phase {
                     petit = sc2;
                     chronoPetit = chr2;
                     elimine = joueur2;
+                    gagnant = joueur1;
                 }
             }else {
                 petit = sc2;
                 elimine = joueur2;
                 chronoPetit = chr2;
+                gagnant = joueur1;
             }
         }
 
@@ -74,7 +76,7 @@ public class Phase3 implements Phase {
         select.remove(elimine);
 
         System.out.println("\nLe joueur "+ elimine.getpseudo()+" a été eliminé");
-
+        System.out.println("\n");
         return select;
 
     }

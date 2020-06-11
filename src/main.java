@@ -91,7 +91,7 @@ public class main{
 
         }
 
-            System.out.println(" La partie est fini ");
+            System.out.println(" La partie est fini \n");
         System.out.println("~~~~~~~~~~~~~~ Voici les différents joueurs ~~~~~~~~~~~~~~");
             nouvellePartie.afficher();
         System.out.println("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");

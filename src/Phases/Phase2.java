@@ -98,7 +98,7 @@ public class Phase2 implements Phase {
         // On change l'état du joueur ayant le score le plus faible
         elimine.changerEtat("éliminé");
 
-        System.out.println("\nLe joueur "+ elimine.getpseudo()+" a été eliminé");
+        System.out.println("\nLe joueur "+ elimine.getpseudo()+" a été eliminé\n");
 
         select.remove(elimine);
 

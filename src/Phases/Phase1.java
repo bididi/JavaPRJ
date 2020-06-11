@@ -127,7 +127,7 @@ public class Phase1 implements Phase {
         select.remove(elimine);
 
         System.out.println("\nLe joueur "+ elimine.getpseudo()+" a été eliminé");
-
+        System.out.println("\n");
         // On retourne notre nouveau vecteur
         return select;
     }
