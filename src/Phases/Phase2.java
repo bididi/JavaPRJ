@@ -71,7 +71,7 @@ public class Phase2 implements Phase {
             }else {
                 petit = sc2;
                 elimine = joueur2;
-                chronoPetit = sc2;
+                chronoPetit = chr2;
             }
         }
         if (sc3 <= petit){
