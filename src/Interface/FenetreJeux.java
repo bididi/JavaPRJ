@@ -2,6 +2,9 @@ package Interface;
 
 public class FenetreJeux extends javax.swing.JFrame {
 
+    /**
+     * Fenetre de jeux non implémenté
+     */
 
     // Creates new form FenetreJeux
     public FenetreJeux() {
@@ -9,7 +12,7 @@ public class FenetreJeux extends javax.swing.JFrame {
     }
 
     @SuppressWarnings("unchecked")
-    // <editor-fold defaultstate="collapsed" desc="Generated Code">
+    // <editor-fold defaultstate="collapsed" desc="Swing code">
     private void initComponents() {
 
         jPanel1 = new javax.swing.JPanel();
@@ -104,7 +107,7 @@ public class FenetreJeux extends javax.swing.JFrame {
 
         jLabel1.setFont(new java.awt.Font("Corbel", 0, 36)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel1.setText("Phases.Phase X");
+        jLabel1.setText("Phase X");
         // TODO changer X par le numeros de la phase
 
         jPanel8.setBackground(new java.awt.Color(204, 204, 204));
@@ -500,14 +503,10 @@ public class FenetreJeux extends javax.swing.JFrame {
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {
         // TODO Code aprés pression du bouton "Confirmer":
+        dispose();
 
         //changer les information de la page puis lancer :
         //fonction qui permet d'afficher la page
-        java.awt.EventQueue.invokeLater(new Runnable() {
-            public void run() {
-                new FenetreJeux().setVisible(true);
-            }
-        });
     }
 
     private void jTextField1ActionPerformed(java.awt.event.ActionEvent evt) {
@@ -518,7 +517,7 @@ public class FenetreJeux extends javax.swing.JFrame {
      * @param args the command line arguments
      */
 
-/**
+    /**
     public static void main(String args[]) {
         try {
             for (javax.swing.UIManager.LookAndFeelInfo info : javax.swing.UIManager.getInstalledLookAndFeels()) {
@@ -545,8 +544,8 @@ public class FenetreJeux extends javax.swing.JFrame {
                 new FenetreJeux().setVisible(true);
             }
         });
-    }
-*/
+    }*/
+
 
     // Variables declaration - do not modify
     private javax.swing.JButton jButton1;
