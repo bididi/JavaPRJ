@@ -70,7 +70,7 @@ public class Phase1 implements Phase {
         List<Question> LQ = Liste.openfile();// on peut aussi faire LQ =Liste.liste;
 
 
-        System.out.println("\n C'est au tour du : ");
+        System.out.println("\n C'est au tour de : ");
         joueur1.afficher();
         String theme = test.SelectionnerTheme();
         Question j1 = Liste.selectionnerQuestion(LQ,1,theme);
@@ -80,7 +80,7 @@ public class Phase1 implements Phase {
             joueur1.mAJScore(2);
         }
 
-        System.out.println("\n C'est au tour du : ");
+        System.out.println("\n C'est au tour de : ");
         joueur2.afficher();
         String theme2 = test.SelectionnerTheme();
         Question j2 = Liste.selectionnerQuestion(LQ,1,theme2);
@@ -90,7 +90,7 @@ public class Phase1 implements Phase {
             joueur2.mAJScore(2);
         }
 
-        System.out.println("\n C'est au tour du : ");
+        System.out.println("\n C'est au tour de : ");
         joueur3.afficher();
         String theme3 = test.SelectionnerTheme();
         Question j3 = Liste.selectionnerQuestion(LQ,1,theme3);
@@ -101,7 +101,7 @@ public class Phase1 implements Phase {
         }
 
 
-        System.out.println("\n C'est au tour du : ");
+        System.out.println("\n C'est au tour de : ");
         joueur4.afficher();
         String theme4 = test.SelectionnerTheme();
         Question j4 = Liste.selectionnerQuestion(LQ,1,theme4);
