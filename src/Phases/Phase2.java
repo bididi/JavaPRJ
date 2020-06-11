@@ -87,6 +87,14 @@ public class Phase2 implements Phase {
                 chronoPetit = chr3;
             }
         }
+
+        //On affiche tous les joueur, leurs score ainsi que leurs chronos
+        System.out.println("~~~~~~~~~~~~~~~~~~~~~~~ les différents scores ~~~~~~~~~~~~~~~~~~~~~~~");
+        System.out.println("Pseudo : "+joueur1.getpseudo()+", Score : "+joueur1.getScore()+", chrono : "+ chr1);
+        System.out.println("Pseudo : "+joueur2.getpseudo()+", Score : "+joueur2.getScore()+", chrono : "+ chr2);
+        System.out.println("Pseudo : "+joueur3.getpseudo()+", Score : "+joueur3.getScore()+", chrono : "+ chr3);
+        System.out.println("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
+
         // On change l'état du joueur ayant le score le plus faible
         elimine.changerEtat("éliminé");
 
