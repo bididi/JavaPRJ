@@ -106,7 +106,7 @@ public class Phase3 implements Phase {
 
         System.out.println("\n C'est au tour du : ");
         joueur1.afficher();
-        Question j1 = Liste.selectionnerQuestion(LQ,1,theme);
+        Question j1 = Liste.selectionnerQuestion(LQ,3,theme);
         j1.Afficher();
         temps.start();
         boolean reponse = j1.Saisir();
@@ -117,7 +117,7 @@ public class Phase3 implements Phase {
 
         System.out.println("\n C'est au tour du : ");
         joueur2.afficher();
-        Question j2 = Liste.selectionnerQuestion(LQ,1,theme);
+        Question j2 = Liste.selectionnerQuestion(LQ,3,theme);
         j2.Afficher();
         chronoJ2.start();
         boolean reponse2 = j2.Saisir();
@@ -133,7 +133,7 @@ public class Phase3 implements Phase {
 
         System.out.println("\n C'est au tour du : ");
         joueur1.afficher();
-        Question j12 = Liste.selectionnerQuestion(LQ,1,theme);
+        Question j12 = Liste.selectionnerQuestion(LQ,3,theme);
         j12.Afficher();
         temps.start();
         boolean reponse12 = j12.Saisir();
@@ -144,7 +144,7 @@ public class Phase3 implements Phase {
 
         System.out.println("\n C'est au tour du : ");
         joueur2.afficher();
-        Question j22 = Liste.selectionnerQuestion(LQ,1,theme);
+        Question j22 = Liste.selectionnerQuestion(LQ,3,theme);
         j22.Afficher();
         chronoJ2.start();
         boolean reponse22 = j22.Saisir();
@@ -160,7 +160,7 @@ public class Phase3 implements Phase {
 
         System.out.println("\n C'est au tour du : ");
         joueur1.afficher();
-        Question j13 = Liste.selectionnerQuestion(LQ,1,theme);
+        Question j13 = Liste.selectionnerQuestion(LQ,3,theme);
         j13.Afficher();
         temps.start();
         boolean reponse13 = j13.Saisir();
@@ -171,7 +171,7 @@ public class Phase3 implements Phase {
 
         System.out.println("\n C'est au tour du : ");
         joueur2.afficher();
-        Question j23 = Liste.selectionnerQuestion(LQ,1,theme);
+        Question j23 = Liste.selectionnerQuestion(LQ,3,theme);
         j23.Afficher();
         chronoJ2.start();
         boolean reponse23 = j23.Saisir();
