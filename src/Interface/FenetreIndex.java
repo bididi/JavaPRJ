@@ -54,7 +54,7 @@ public class FenetreIndex extends javax.swing.JFrame {
 
         jLabel2.setFont(new java.awt.Font("Corbel", 0, 36)); // NOI18N
         jLabel2.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel2.setText("Questions / Réponse");
+        jLabel2.setText("Questions / Réponses");
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
@@ -226,7 +226,7 @@ public class FenetreIndex extends javax.swing.JFrame {
 
         jLabel6.setFont(new java.awt.Font("Corbel", 0, 18)); // NOI18N
         jLabel6.setForeground(new java.awt.Color(255, 255, 102));
-        jLabel6.setText("Appuiez sur \"Entrée\" pour chaques champs");
+        jLabel6.setText("Appuiez sur \"Entrée\" pour chaque champ");
 
         javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
         jPanel2.setLayout(jPanel2Layout);

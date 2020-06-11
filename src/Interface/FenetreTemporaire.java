@@ -53,7 +53,7 @@ public class FenetreTemporaire extends javax.swing.JFrame {
 
         jLabel3.setFont(new java.awt.Font("Corbel", 0, 24)); // NOI18N
         jLabel3.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel3.setText("Le jeux étant en cours de develloppement");
+        jLabel3.setText("Le jeu étant en cours de developpement");
 
         jButton1.setBackground(new java.awt.Color(168, 192, 176));
         jButton1.setFont(new java.awt.Font("Corbel", 1, 18)); // NOI18N
@@ -68,7 +68,7 @@ public class FenetreTemporaire extends javax.swing.JFrame {
 
         jLabel5.setFont(new java.awt.Font("Corbel", 0, 24)); // NOI18N
         jLabel5.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel5.setText("encores disponibles.");
+        jLabel5.setText("encore disponibles.");
 
         jLabel6.setFont(new java.awt.Font("Corbel", 0, 24)); // NOI18N
         jLabel6.setForeground(new java.awt.Color(255, 255, 255));
