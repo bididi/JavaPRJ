@@ -192,7 +192,7 @@ public class Phase3 implements Phase {
         }
         chronoJ2.stop();
 
-        System.out.println("La phase 3 est terminé !");
+        System.out.println("\nLa phase 3 est terminé !\n");
 
     }
 }
